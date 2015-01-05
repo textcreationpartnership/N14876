@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:018871_0000_0FA821339D1C9B30"/>
-            <pb facs="tcp:018871_0001_0FA82134138B43F0"/>
+            <pb facs="unknown:018871_0000_0FA821339D1C9B30"/>
+            <pb facs="unknown:018871_0001_0FA82134138B43F0"/>
             <p>A Grammatical Inſtitute, OF THE ENGLISH LANGUAGE, COMPRISING, An eaſy, conciſe, and ſyſtematic Method of EDUCATION, Deſigned for the Uſe of <hi>Engliſh</hi> Schools IN AMERICA.</p>
             <p>IN THREE PARTS. PART II. CONTAINING, A plain and comprehenſive Grammar, grounded on the true Principles and Idioms of the Language; with an analytical Diſſertation, in which vari<g ref="char:EOLhyphen"/>ous Uſes of the Auxiliary Signs are unfolded and explained: And an Eſſay towards inveſtigating the Rules of Engliſh Verſe.</p>
             <p>BY NOAH WEBSTER, Jun. Eſq.</p>
@@ -129,7 +129,7 @@
             <p>HARTFORD: PRINTED BY HUDSON <hi>&amp;</hi> GOODWIN, FOR THE AUTHOR, M, DCC, LXXXIV. Under Protection of the Statute.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:018871_0002_0FA82137065B9FE0"/>
+            <pb facs="unknown:018871_0002_0FA82137065B9FE0"/>
             <head>PREFACE<g ref="char:punc">▪</g> To the Second Part.</head>
             <p>THE deſign of this Part of the Inſtitute, is to frame a Grammar of our own language upon its true principles, and calculate it for the benefit of common Engliſh ſchools. No Grammar, that has hitherto appeared, ſeems well adapted to anſwer this particular purpoſe. Mr. Dilworth's, which has had the moſt general circulation in America, is not con<g ref="char:EOLhyphen"/>ſtructed upon the principles of the Engliſh language; it is, to uſe the words of an eminent ſcholar and critic, "A mere Latin Grammar, very indifferent<g ref="char:EOLhyphen"/>ly tranſlated." As to thoſe articles in which all languages agree, ſuch as the general definition of nouns, adjectives, &amp;c. he is uſually right; but wherever our language is built upon principles pe<g ref="char:EOLhyphen"/>culiar to itſelf, he is invariably wrong. We are apt to be ſurpriſed, that men who made the languages their principal ſtudy, and during their whole lives, were employed in teaching youth, ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -141,7 +141,7 @@
                   <desc>〈◊〉</desc>
                </gap> the amazing influence of habit upon the human mind.</p>
             <p>
-               <pb n="4" facs="tcp:018871_0003_0FA8213734DD4788"/>Our language has now arrived to a great degree of purity: and many writers of the laſt and preſent age have, both in elegance and ſublimity of ſtyle, equaled, if not ſurpaſſed the Roman authors of the Auguſtan age. To frame ſuch a Grammar as to in<g ref="char:EOLhyphen"/>ſtruct our own youth, as well as foreigners, in this purity of ſtyle, is the buſineſs of a Grammarian— a buſineſs that appears to be not yet accompliſhed.</p>
+               <pb n="4" facs="unknown:018871_0003_0FA8213734DD4788"/>Our language has now arrived to a great degree of purity: and many writers of the laſt and preſent age have, both in elegance and ſublimity of ſtyle, equaled, if not ſurpaſſed the Roman authors of the Auguſtan age. To frame ſuch a Grammar as to in<g ref="char:EOLhyphen"/>ſtruct our own youth, as well as foreigners, in this purity of ſtyle, is the buſineſs of a Grammarian— a buſineſs that appears to be not yet accompliſhed.</p>
             <p>Dr. Lowth was well acquainted with the origin and genius of the language; and his <hi>Short Introduc<g ref="char:EOLhyphen"/>tion to Engliſh Grammar,</hi> which is an original per<g ref="char:EOLhyphen"/>formance, cannot be ſtudied with too much atten<g ref="char:EOLhyphen"/>tion. But his ſtyle and method, are not ſuited to the capacities of youth; his treatiſe was expreſsly deſigned for a <hi>private and domeſtic uſe,</hi> and is exceed<g ref="char:EOLhyphen"/>ingly well calculated for this particular purpoſe, as well as for ſchools of a higher claſs. But with re<g ref="char:EOLhyphen"/>ſpect to the Imperative Mode, the Paſſive Verb and ſome other matters of leſs moment, he ſeems to have fallen into obvious miſtakes; and in the in<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -154,7 +154,7 @@
                   <desc>•</desc>
                </gap> Aſh has corrected ſome errors and ſupplied ſome defects of theſe Authors; but has omitted other articles of equal importance.</p>
             <p>In the ſhort treatiſe here preſented to the public, I have endeavoured to throw the principles of our language into a ſtyle and method ſuited to the moſt ordinary capacities. I have generally adhered to the ſyſtems of the reſpectable authorities above mentioned: Whenever I have deviated, it was with reluctance, but with the fulleſt perſuaſion that I was
-<pb n="5" facs="tcp:018871_0004_0FA821386615F448"/>
+<pb n="5" facs="unknown:018871_0004_0FA821386615F448"/>
 warranted by the nature and idioms of the lan<g ref="char:EOLhyphen"/>guage.</p>
             <p>In that new and complicated ſubject, the illuſtra<g ref="char:EOLhyphen"/>tion of our helping verbs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -164,14 +164,14 @@ warranted by the nature and idioms of the lan<g ref="char:EOLhyphen"/>guage.</p>
             <p>The proſody of our language has been neglected or miſtaken as much as any part of Grammar. That maſter-key to the pronunciation of Engliſh, the ſylla<g ref="char:EOLhyphen"/>bic accent, has been very little <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nderſtood. Mr. Sheridan is the firſt who has been ſenſible of
-<pb n="6" facs="tcp:018871_0005_0FA82138DDF97640"/>
+<pb n="6" facs="unknown:018871_0005_0FA82138DDF97640"/>
 its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed with its utility in proſe than in verſe. An at<g ref="char:EOLhyphen"/>tempt to inveſtigate the rules of numerous compo<g ref="char:EOLhyphen"/>ſition and illuſtrate them by examples from the beſt authorities, ſeemed neceſſary to complete this Part of the Inſtitute.</p>
             <p>In all the rules, definitions and illuſtrations, accu<g ref="char:EOLhyphen"/>racy and perſpicuity have been my principal ſtudy; and I cannot but think that this will be ſufficient to juſtify the length of the Diſſertation on the Auxilia<g ref="char:EOLhyphen"/>ries, as well as ſeveral repetitions in the examples of falſe conſtruction and inelegant arrangement.</p>
          </div>
       </front>
       <body>
          <div type="subject">
-            <pb facs="tcp:018871_0006_0FA8213A06102F60"/>
+            <pb facs="unknown:018871_0006_0FA8213A06102F60"/>
             <head>OF GRAMMAR.<note n="*" place="bottom">Grammar conſiſts of four parts; viz. Orthography, Proſ<g ref="char:EOLhyphen"/>ody, analogy and Syntax. Orthography teaches to ſpell and write words with proper letters. Proſody teaches a true pronunciation of words. Analogy or Etymology teaches the derivation and declenſion of words. Syntax teaches the proper arrangement of words in Sentences. Orthography and Proſody in general, are the ſubject of the firſt part of this Inſtitute. Proſody, appli<g ref="char:EOLhyphen"/>ed to verſe; Analogy and Syntax are the ſubjects of this ſecond Part or Grammar.</note>
             </head>
             <p>
@@ -210,7 +210,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                      <desc>•••</desc>
                   </gap>.</note>. The ſounds of <hi>oo</hi> and <hi>au</hi> are alſo vowels.</p>
             <p>
-               <pb n="8" facs="tcp:018871_0007_0FA8213A2FC6DD90"/>The conſonants are b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, x, z, ch, ſh, th, and zh, or <hi>s</hi> in <hi>deluſion</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="8" facs="unknown:018871_0007_0FA8213A2FC6DD90"/>The conſonants are b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, x, z, ch, ſh, th, and zh, or <hi>s</hi> in <hi>deluſion</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> in <hi>ſong.</hi>
             </p>
@@ -286,7 +286,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                </table>
             </p>
             <p>
-               <pb n="9" facs="tcp:018871_0008_0FA8213AE3667C18"/>But <hi>e</hi> muſt not be dropped after <hi>c</hi> and <hi>g</hi> before <hi>able,</hi> for this would render <hi>c</hi> and <hi>g</hi> hard; as, <hi>ſervice<g ref="char:EOLhyphen"/>able,</hi> if <hi>e</hi> be dropped, will be ſounded <hi>ſervikabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="9" facs="unknown:018871_0008_0FA8213AE3667C18"/>But <hi>e</hi> muſt not be dropped after <hi>c</hi> and <hi>g</hi> before <hi>able,</hi> for this would render <hi>c</hi> and <hi>g</hi> hard; as, <hi>ſervice<g ref="char:EOLhyphen"/>able,</hi> if <hi>e</hi> be dropped, will be ſounded <hi>ſervikabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</hi>
             </p>
@@ -361,7 +361,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                   <desc>〈◊〉</desc>
                </gap> therefore called the <hi>indefinite</hi> article.</p>
             <p>
-               <pb n="10" facs="tcp:018871_0009_0FA8213BA5581EA0"/>
+               <pb n="10" facs="unknown:018871_0009_0FA8213BA5581EA0"/>
                <hi>How is the article <hi>the</hi> uſed? The</hi> is uſed to point out one thing or a number of things, which are ſuppoſed to be known; as, <hi>the Commander in Chief, the Church, the twelve Apoſ<g ref="char:EOLhyphen"/>tles. The</hi> is therefore called the definite article.</p>
             <p>
                <hi>Is the article <hi>a</hi> ever uſed before plural Nouns?</hi> Never, except before the adjectives <hi>few, many, dozen, hundred, thouſand,</hi> and <hi>million.</hi> We ſay with propriety, <hi>a few men, a great many trees, a dozen books, a hundred towns, a thouſand ſoldiers, a million dollars;</hi> tho' we muſt not ſay, <hi>a men, a trees,</hi> &amp;c.</p>
@@ -398,7 +398,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
             </p>
             <p>Note, All names of <hi>perſons, kingdoms, cities, towns,</hi> and <hi>rivers,</hi> are proper nouns and ought to be written with a capital letter.</p>
             <p>
-               <pb n="11" facs="tcp:018871_0010_0FA8213C4C1B6938"/>
+               <pb n="11" facs="unknown:018871_0010_0FA8213C4C1B6938"/>
                <hi>Are the articles <hi>a</hi> and <hi>the</hi> uſed before proper nouns?</hi> Never, except by a figure; as, "Our General was <hi>a</hi> Fabius;" and a traitor is called "<hi>an</hi> Arnold;" or when there are two perſons of the ſame name; as, "<hi>the</hi> two Howes;" or when a common noun is underſtood; as, "<hi>the</hi> Hudſon," that is, "<hi>the river</hi> Hudſon." The reaſon is, becauſe without articles the names are as certain and determinate as they can be.</p>
             <p>
                <hi>Will proper nouns admit of the plural number?</hi> Never, except when there are two perſons of the ſame name; as, "the two <hi>Howes;</hi>" and in this caſe, they ſeem to become common nouns. But we can not ſay "the two <hi>Boſtons,</hi>" becauſe there is but one.</p>
@@ -446,7 +446,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
             </p>
             <p>Some nouns ending in <hi>ſ</hi> or <hi>fe,</hi> for the eaſe of pro<g ref="char:EOLhyphen"/>nunciation, make the plural by changing <hi>f</hi> into <hi>v;</hi> as,</p>
             <p>
-               <pb n="12" facs="tcp:018871_0011_0FA8213D28867F18"/>
+               <pb n="12" facs="unknown:018871_0011_0FA8213D28867F18"/>
                <table>
                   <row>
                      <cell role="label">
@@ -608,7 +608,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
             <p>N. B. Sheep, deer, hoſe, fern, are the ſame in both numbers.</p>
          </div>
          <div type="subject">
-            <pb n="13" facs="tcp:018871_0012_0FA8213EA1642050"/>
+            <pb n="13" facs="unknown:018871_0012_0FA8213EA1642050"/>
             <head>CASE.</head>
             <p>
                <hi>What is meant by caſe?</hi> It means a different ending of a word to expreſs a different relation.</p>
@@ -702,7 +702,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                </note>.</p>
          </div>
          <div type="subject">
-            <pb n="14" facs="tcp:018871_0013_0FA8213F60F001C0"/>
+            <pb n="14" facs="unknown:018871_0013_0FA8213F60F001C0"/>
             <head>GENDER.</head>
             <p>
                <hi>How many genders have nouns?</hi> Two, maſculine and feminine. All males are maſculine; all females are feminine; and things without life are of no gender. Theſe, for the ſake of diſtinction, may be called <hi>neuter.</hi>
@@ -866,7 +866,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                      <cell>viſcount</cell>
                      <cell>viſcounteſs</cell>
                   </row>
-                  <pb n="15" facs="tcp:018871_0014_0FA82140158E3040"/>
+                  <pb n="15" facs="unknown:018871_0014_0FA82140158E3040"/>
                   <row>
                      <cell>jew</cell>
                      <cell>jeweſs</cell>
@@ -929,7 +929,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                      </gap>u were.</hi>
                </note>
                <g ref="char:punc">▪</g> thirdly, the perſon ſpoken of, who is called, if a male, <hi>he</hi>; if a female, <hi>ſhe;</hi> if a thing with<g ref="char:EOLhyphen"/>out life, <hi>it.</hi> The firſt and ſecond perſons, being al<g ref="char:EOLhyphen"/>ways
-<pb n="16" facs="tcp:018871_0015_0FA82140CFA93378"/>
+<pb n="16" facs="unknown:018871_0015_0FA82140CFA93378"/>
 ſuppoſed preſent, and conſequently their ſex known, have no diſtinction of gender: Both men and women ſay <hi>I</hi> and <hi>thou.</hi> But the third perſon, being often abſent, and the ſex unknown, it is neceſſary that its gender ſhould be diſtinguiſhed by different words; thus maſ. <hi>he;</hi> fem. <hi>ſhe;</hi> neut. <hi>it;</hi> As the ſubjects of diſcourſe are many, there<g ref="char:EOLhyphen"/>fore theſe perſons have the plural number; as,</p>
             <p>
                <table>
@@ -1056,7 +1056,7 @@ its importance, and he is perhaps better acquaint<g ref="char:EOLhyphen"/>ed wit
                         <desc>•</desc>
                      </gap>ſe</hi> to ſomething <hi>abſent.</hi>
                </note>, <hi>other, any, ſome, one, none,</hi> may be called <hi>definite</hi> pronouns, becauſe they <hi>limit</hi> or <hi>define</hi> the extent of the noun to which they
-<pb n="17" facs="tcp:018871_0016_0FA82141AA6731B0"/>
+<pb n="17" facs="unknown:018871_0016_0FA82141AA6731B0"/>
 are joined. The three firſt are varied to expreſs number.</p>
             <p>
                <table>
@@ -1099,7 +1099,7 @@ are joined. The three firſt are varied to expreſs number.</p>
                <hi>What are <hi>each, every</hi> and <hi>either</hi> called? Each, every</hi> and <hi>either,</hi> are called <hi>diſtributive pro<g ref="char:EOLhyphen"/>nouns</hi> becauſe they denote a number taken <hi>ſeparate<g ref="char:EOLhyphen"/>ly;</hi> as, "here are five boys, <hi>each</hi> of whom is ſtu<g ref="char:EOLhyphen"/>dious;" where <hi>each</hi> refers to every individual taken <hi>ſeparately</hi> from the others.</p>
             <p>What is the uſe of <hi>own</hi> and <hi>ſelf? Own</hi> and <hi>ſelf</hi> are added to ſome pronominal ad<g ref="char:EOLhyphen"/>jectives to expreſs <hi>oppoſition</hi> or <hi>emphaſis;</hi> as, "I did it <hi>myſelf.</hi>" "It is my <hi>own.</hi>" But, <hi>ſelf,</hi> which makes <hi>ſelves</hi> in the plural, like a noun, is often employed as ſuch.</p>
             <p>
-               <pb n="18" facs="tcp:018871_0017_0FA8214278918588"/>Note 1, When a perſon does an action upon himſelf; that is, when the ſame perſon is both the <hi>agent</hi> and the <hi>object,</hi> the word that follows the verb in the objective caſe, may be called a reciprocal pronoun; as, "he loves <hi>himſelf.</hi>" This pronoun is always formed with the ter<g ref="char:EOLhyphen"/>mination <hi>ſelf;</hi> as, <hi>herſelf, themſelves,</hi> &amp;c.</p>
+               <pb n="18" facs="unknown:018871_0017_0FA8214278918588"/>Note 1, When a perſon does an action upon himſelf; that is, when the ſame perſon is both the <hi>agent</hi> and the <hi>object,</hi> the word that follows the verb in the objective caſe, may be called a reciprocal pronoun; as, "he loves <hi>himſelf.</hi>" This pronoun is always formed with the ter<g ref="char:EOLhyphen"/>mination <hi>ſelf;</hi> as, <hi>herſelf, themſelves,</hi> &amp;c.</p>
             <p>Note 2, All nouns and pronouns are of the third perſon, except <hi>I</hi> and <hi>thou, we</hi> and <hi>you</hi> or <hi>ye.</hi>
             </p>
          </div>
@@ -1178,7 +1178,7 @@ are joined. The three firſt are varied to expreſs number.</p>
                </table>
             </p>
             <p>
-               <pb n="19" facs="tcp:018871_0018_0FA82143A9938630"/>All adjectives <hi>may</hi> be compared by <hi>more</hi> and <hi>moſt;</hi> and moſt adjectives of more than <hi>one</hi> ſyllable and all of more than <hi>two, muſt</hi> be compared by <hi>more</hi> and <hi>moſt, leſs</hi> and <hi>leſt.</hi>
+               <pb n="19" facs="unknown:018871_0018_0FA82143A9938630"/>All adjectives <hi>may</hi> be compared by <hi>more</hi> and <hi>moſt;</hi> and moſt adjectives of more than <hi>one</hi> ſyllable and all of more than <hi>two, muſt</hi> be compared by <hi>more</hi> and <hi>moſt, leſs</hi> and <hi>leſt.</hi>
             </p>
             <p>
                <table>
@@ -1253,11 +1253,11 @@ are joined. The three firſt are varied to expreſs number.</p>
                      </gap>perative mode. Grammarians, conforming to the inflection of Latin verbs, without attending to the principles of our own language, have conſidered the verb <hi>let</hi> merely as an aux<g ref="char:EOLhyphen"/>iliary ſign and have uſed it to form the firſt and third Perſons of the imperative mode. It may be doubted whether, in any caſe, the imperative admits of theſe perſons; the ſecond perſon only being the object of command or exhortation. But in moſt caſes, <hi>let</hi> is certainly a principal verb, of the ſame import as <hi>permit</hi> or <hi>ſuffer,</hi> and uſed in the ſecond perſon of the imperative mode. Theſe expreſſions therefore, <hi>let me write, let him write,</hi> ſo far from being the firſt and third perſons, are in fact the ſecond per<g ref="char:EOLhyphen"/>ſon of the imperative. In ſome inſtances, they are merely ad<g ref="char:EOLhyphen"/>viſory, but in many caſes, they imply a command, directed to a ſecond perſon.</p>
                   <p>If a perſon hold me faſt and I ſay to him, <hi>let me go,</hi> I preſume no one will contend that this is a command or exhortation di<g ref="char:EOLhyphen"/>rected to myſelf. In the firſt perſon plural, <hi>let us go,</hi> has the force of advice and exhortation to a number, among whom, the ſpeaker includes himſelf, and this may poſſibly be called the firſt perſon of the imperative; but, <hi>let me, let him</hi> and <hi>let them,</hi> muſt be conſidered as the ſecond perſon, implying the ſame as <hi>ſuffer</hi> or <hi>permit</hi> me, &amp;c. The Romans uſed the firſt perſon of the ſub<g ref="char:EOLhyphen"/>junctive mode for the purpoſe of exhorting; not having any firſt perſon in the imperative. The French imperative has all perſons, except the firſt of the ſingular. The English imperative has no perſon but the ſecond; to ſupply the place of the firſt and third in other languages, we uſe the verb <hi>let,</hi> with a pronoun in the objective caſe and a verb in the infinitive.</p>
                </note>. A tranſitive verb implies ſome action that paſſes over from the
-<pb n="20" facs="tcp:018871_0019_0FA82143D8225070"/>
+<pb n="20" facs="unknown:018871_0019_0FA82143D8225070"/>
 agent to the object; as, <hi>he loves virtue.</hi> Here the action of <hi>loving</hi> paſſes from the agent <hi>he</hi> to the ob<g ref="char:EOLhyphen"/>ject <hi>virtue.</hi>
             </p>
             <p>
-               <pb n="21" facs="tcp:018871_0020_0FA821448C006728"/>
+               <pb n="21" facs="unknown:018871_0020_0FA821448C006728"/>
                <hi>What is an intranſitive verb?</hi> An intranſitive verb implies <hi>action</hi> or <hi>being</hi> which is all confined to the agent or nominative word; therefore an object can follow the verb; as, <hi>I remain —he liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s—it dies —we run.</hi>
@@ -1299,7 +1299,7 @@ agent to the object; as, <hi>he loves virtue.</hi> Here the action of <hi>loving
                      </gap>y one general name, <hi>participles,</hi> leaving it for the Inſtructor to determine, by the ſenſe, wherever they occur, whether they be nouns, or adjectives, or retain the ſignification of the verbs from which they are derived</p>
                </note>.</p>
             <p>
-               <pb n="22" facs="tcp:018871_0021_0FA821456515CE10"/>
+               <pb n="22" facs="unknown:018871_0021_0FA821456515CE10"/>
                <hi>How do the Engliſh form the different modes, tenſes and perſons of the verbs?</hi> Principally by the help of ſeveral ſmall words which are called, from their uſe, <hi>auxiliaries,</hi> that is, helpers.</p>
             <p>The proper uſes of the Engliſh auxiliaries being ſo intricate and embarraſſing, eſpecially to foreign<g ref="char:EOLhyphen"/>ers, and ſo little underſtood even by thoſe to whom the language is vernacular, I ſhall attempt a critical inveſtigation of the ſubject in the following DISSERTATION.</p>
             <div type="part">
@@ -1311,7 +1311,7 @@ agent to the object; as, <hi>he loves virtue.</hi> Here the action of <hi>loving
                <p>The imperative commands and exhorts; as, <hi>ſee, do thou ſee.</hi>
                </p>
                <p>The potential declares the <hi>liberty, power, neceſſity, inclination</hi> and <hi>obligation</hi> of the agents, which are ex<g ref="char:EOLhyphen"/>preſſed
-<pb n="23" facs="tcp:018871_0022_0FA82147FB59F070"/>
+<pb n="23" facs="unknown:018871_0022_0FA82147FB59F070"/>
 by the ſigns, <hi>may, can, muſt, would, ſhould,</hi> &amp;c.</p>
                <p>The ſubjunctive repreſents an action under ſome <hi>condition</hi> or <hi>limitation,</hi> or elſe <hi>doubtful</hi>; and is always preceded by a verb or ſome conjunction; as, <hi>if, though, unleſs, whether,</hi> &amp;c.</p>
             </div>
@@ -1333,7 +1333,7 @@ by the ſigns, <hi>may, can, muſt, would, ſhould,</hi> &amp;c.</p>
                <p>But there is another important diſtinction of tenſes, peculiar to the Engliſh Language, viz. into <hi>indefinite</hi> and <hi>definite.</hi>
                </p>
                <p>
-                  <pb n="24" facs="tcp:018871_0023_0FA8214941BDCD00"/>The indefinite tenſes repreſent an action as preſent, paſt or future, in a vague indeterminate manner; the definite, aſcertain ſome particular time or circum<g ref="char:EOLhyphen"/>ſtances of action.</p>
+                  <pb n="24" facs="unknown:018871_0023_0FA8214941BDCD00"/>The indefinite tenſes repreſent an action as preſent, paſt or future, in a vague indeterminate manner; the definite, aſcertain ſome particular time or circum<g ref="char:EOLhyphen"/>ſtances of action.</p>
                <p>The definite tenſes are formed by the verb <hi>to be</hi> and the participle in <hi>ing</hi>; as, <hi>I am writing.</hi> The dif<g ref="char:EOLhyphen"/>ference in the uſe of theſe tenſes, requires particular explanation.</p>
                <list>
                   <item>Preſent Indefinite.
@@ -1363,7 +1363,7 @@ by the ſigns, <hi>may, can, muſt, would, ſhould,</hi> &amp;c.</p>
                      </list>
                   </item>
                   <item>
-                     <pb n="25" facs="tcp:018871_0024_0FA8214A6C6A9330"/>Perfect indefinite.
+                     <pb n="25" facs="unknown:018871_0024_0FA8214A6C6A9330"/>Perfect indefinite.
 <list>
                         <label>I have loved. I have written.</label>
                         <item>This tenſe ſhows the action to be completed; but leaves it inde<g ref="char:EOLhyphen"/>terminate as to the point of time.</item>
@@ -1394,7 +1394,7 @@ by the ſigns, <hi>may, can, muſt, would, ſhould,</hi> &amp;c.</p>
                      </list>
                   </item>
                   <item>
-                     <pb n="26" facs="tcp:018871_0025_0FA8214A9B16C0E0"/>Definite.
+                     <pb n="26" facs="unknown:018871_0025_0FA8214A9B16C0E0"/>Definite.
 <list>
                         <label>I ſhall be loving. I ſhall be writing.</label>
                         <item>This is uſed when we foretell that an action will be performed at the ſame period with another action or event; as, "I ſhall be writing when you will be aſleep."</item>
@@ -1427,7 +1427,7 @@ by the ſigns, <hi>may, can, muſt, would, ſhould,</hi> &amp;c.</p>
                   <head>BE.</head>
                   <p>
                      <hi>Be</hi> is either a principal verb or an auxiliary. When a principal verb, it is intranſitive, ſignifying
-<pb n="27" facs="tcp:018871_0026_0FA8214B5A854A98"/>
+<pb n="27" facs="unknown:018871_0026_0FA8214B5A854A98"/>
 merely <hi>being</hi> or <hi>exiſtence,</hi> and is varied in all modes and tenſes with the auxiliaries and its participle <hi>been</hi>; as, I have been, I could have been, &amp;c. As an auxiliary, it is merely a ſign of time, and aſſiſts in forming the various modes and tenſes of our prin<g ref="char:EOLhyphen"/>cipal verbs, as will be hereafter explained.</p>
                </div>
                <div type="verb">
@@ -1445,7 +1445,7 @@ merely <hi>being</hi> or <hi>exiſtence,</hi> and is varied in all modes and ten
                   <p>The ſeveral ſignifications of <hi>ſhall</hi> are alſo variouſly affected by the manner in which it is uttered. In the firſt perſon without emphaſis, it foretells; but when uttered with emphaſis, it expreſſes a much greater degree of certainty; as, "I <hi>ſhall</hi> be there, you may depend on it." In the ſecond and third perſons, without emphaſis, it barely promiſes; as, "he ſhall be paid:" but with emphaſis, it promiſes with determination; as, "he <hi>ſhall</hi> have his money at all events;" or it has the force of a threatning or command; as, "you <hi>ſhall</hi> behave better; the boys <hi>ſhall</hi> ſtudy, or I will puniſh them."</p>
                </div>
                <div type="verb">
-                  <pb n="28" facs="tcp:018871_0027_0FA8214C1A209170"/>
+                  <pb n="28" facs="unknown:018871_0027_0FA8214C1A209170"/>
                   <head>WILL.</head>
                   <p>This is alſo a ſign of the future tenſe; but for the moſt part, is directly the reverſe of <hi>ſhall;</hi> that is, it has the ſame force or meaning as <hi>ſhall,</hi> but in differ<g ref="char:EOLhyphen"/>ent perſons. In the firſt perſon, it promiſes; as, "I will write:" In the ſecond and third, it ſimply foretells; as, "you will or he will go to Philadel<g ref="char:EOLhyphen"/>phia." An emphaſis, in the firſt perſon, adds force to a promiſe and amounts to a determination in the perſon promiſing; as, "I <hi>will</hi> come, upon my hon<g ref="char:EOLhyphen"/>our; I <hi>will</hi> go, at all events." An emphaſis in the ſecond and third perſons foretells an event with greater aſſurance.</p>
                </div>
@@ -1463,7 +1463,7 @@ merely <hi>being</hi> or <hi>exiſtence,</hi> and is varied in all modes and ten
                   <head>SHOULD.</head>
                   <p>
                      <hi>Should</hi> has various uſes. It belongs to all tenſes indifferently, and ſignifies obligation, event or de<g ref="char:EOLhyphen"/>termination. In the firſt perſon, ſhould, without emphaſis, expreſſes event conditionally; as, "I ſhould go, if it did not rain." With emphaſis, it expreſſes obligation; as, "my friend is in diſtreſs, and I <hi>ſhould</hi> help him." In the ſecond and third perſons it expreſſes obligation without emphaſis; as, "you ſaw your freind in diſtreſs and ſhould have relieved him." He ſaw, &amp;c. But with emphaſis, it expreſſes the reſolution of the ſpeaker; as, "had I been there, he <hi>ſhould</hi> have gone at all events;" im<g ref="char:EOLhyphen"/>plying a right in the ſpeaker to command him. But
-<pb n="29" facs="tcp:018871_0028_0FA8214CCD088470"/>
+<pb n="29" facs="unknown:018871_0028_0FA8214CCD088470"/>
                      <hi>ſhould</hi> eſpecially in the firſt perſon plural, is often uſed to expreſs obligation without emphaſis.</p>
                </div>
                <div type="verb">
@@ -1475,7 +1475,7 @@ merely <hi>being</hi> or <hi>exiſtence,</hi> and is varied in all modes and ten
                   <p>In this phraſe "I would adviſe my friend to accept of the offer," there is no condition expreſſed, but the ſenſe evidently implies one. If I mean to give my advice abſolutely, I expreſs myſelf thus, "I ad<g ref="char:EOLhyphen"/>viſe or do adviſe him;" but "I would adviſe," im<g ref="char:EOLhyphen"/>plies a condition that "if I were a proper perſon," or "if my advice were aſked," then, &amp;c. But <hi>would</hi> has, in many caſes, uſurped the place of <hi>do</hi> and is uſed to expreſs a poſitive declaration; I think im<g ref="char:EOLhyphen"/>properly; as when a perſon is aſked if he will drink a glaſs of wine and he replies, "I <hi>would</hi> not chuſe any." He means abſolutely, "he <hi>does</hi> not chuſe any" and abſurdly uſes a conditional form of ex<g ref="char:EOLhyphen"/>preſſion.</p>
                </div>
                <div type="verb">
-                  <pb n="30" facs="tcp:018871_0029_0FA8214D8CBFBF88"/>
+                  <pb n="30" facs="unknown:018871_0029_0FA8214D8CBFBF88"/>
                   <head>MIGHT.</head>
                   <p>
                      <hi>Might</hi> is derived from <hi>may,</hi> but differs from it in this; <hi>may</hi> is an unconditional declaration of poſſi<g ref="char:EOLhyphen"/>bility or liberty; <hi>might</hi> expreſſes the ſame poſſibility or liberty under a condition, which defeats the ef<g ref="char:EOLhyphen"/>fect; as, "I might go, if my maſter would permit." It is uſed in both the preſent and paſt tenſes. In the preſent tenſe it is always conditional; as in the foregoing example. In the paſt tenſe, it is either abſolute or conditional: <hi>Abſolute;</hi> as, "I might have gone then, but had no inclination;" <hi>condition<g ref="char:EOLhyphen"/>al</hi>; as, "I might have gone, if buſineſs had not de<g ref="char:EOLhyphen"/>tained me."</p>
@@ -1489,7 +1489,7 @@ merely <hi>being</hi> or <hi>exiſtence,</hi> and is varied in all modes and ten
                   <p>This auxiliary denotes neceſſity. It has no variation, but is uſed in almoſt all tenſes of the potential mode.</p>
                   <p>Some Grammarians, if not all, have uſed <hi>might, could, would,</hi> and <hi>ſhould,</hi> as ſigns of the imperfect tenſe only of the ſubjunctive mode and made little or no difference between the ſubjunctive and poten<g ref="char:EOLhyphen"/>tial. In both theſe particulars they appear to me to be inaccurate. The foregoing auxiliary ſigns are more frequently uſed in the preſent tenſe than in the imperfect. In the preſent tenſe they are always conditional—in the paſt tenſe either abſolute or con<g ref="char:EOLhyphen"/>ditional, according to the nature of the ſentence. "I might go, if I had a horſe" is preſent time and conditional; "I might not go yeſterday, but may go to day," are abſolute declarations; the firſt in the paſt time and the laſt in the preſent.</p>
                   <p>In the ſubjunctive mode they are alſo uſed as ſigns of the imperfect tenſe; as, "I told him that I could
-<pb n="31" facs="tcp:018871_0030_0FA8214EE472BBF8"/>
+<pb n="31" facs="unknown:018871_0030_0FA8214EE472BBF8"/>
 go; you ſaid that I might go, &amp;c." As to a diſ<g ref="char:EOLhyphen"/>tinction between the potential and ſubjunctive modes, it appears to me as real and important, as any diſ<g ref="char:EOLhyphen"/>tinction in Grammar. Whenever there is a decla<g ref="char:EOLhyphen"/>ration that ſomething is or is not ſo, it is called the indicative mode. When there is a declaration, not that an action is done or not, but that there is a power, liberty &amp;c. of doing it, it is called with pro<g ref="char:EOLhyphen"/>priety the potential mode. Theſe modes are inde<g ref="char:EOLhyphen"/>pendent of all others and may ſtand alone, except the conditional tenſes of the potential, which have a neceſſary connexion with ſome other mode, which is uſually the ſubjunctive. But the ſubjunctive mode, is always dependent either on ſome conjunc<g ref="char:EOLhyphen"/>tion or ſome preceding verb The dependence of the modes upon each other may be thus explained.</p>
                </div>
                <div type="examples">
@@ -1544,7 +1544,7 @@ go; you ſaid that I might go, &amp;c." As to a diſ<g ref="char:EOLhyphen"/>tin
                      </table>
                   </p>
                   <p>Theſe are invariable rules; as will appear by unit<g ref="char:EOLhyphen"/>ing
-<pb n="32" facs="tcp:018871_0031_0FA821528D6FA6C8"/>
+<pb n="32" facs="unknown:018871_0031_0FA821528D6FA6C8"/>
 the abſolute tenſes with the conditional. Thus "I can write, but I would not;" "I can write, if I pleaſed;" "I could write, if I pleaſe," are evident improprieties. It is true we ſay, "I could write, but I will not," but here is a condition implied; viz. "I could write <hi>if I pleaſed;</hi> but I will not."</p>
                   <p>It muſt be further obſerved that when I ſpeak of the conditional tenſes of the potential, I do not mean that the condition is contained in this mode; for, <hi>might, would, could,</hi> and <hi>ſhould,</hi> are all abſolute, unleſs they are rendered conditional by ſome phraſe in the ſubjunctive mode, either expreſſed or underſtood.</p>
                </div>
@@ -1572,7 +1572,7 @@ the abſolute tenſes with the conditional. Thus "I can write, but I would not;"
                      <hi>Shall I write?</hi> refers to the will of another and is followed by a declaration in the nature of a com<g ref="char:EOLhyphen"/>mand, <hi>you ſhall.</hi>
                   </p>
                   <p>
-                     <pb n="33" facs="tcp:018871_0032_0FA821539137B700"/>
+                     <pb n="33" facs="unknown:018871_0032_0FA821539137B700"/>
                      <hi>Shall you write?</hi> refers to the intention or determi<g ref="char:EOLhyphen"/>nation of the perſon addreſſed and is anſwered by, <hi>I ſhall.</hi>
                   </p>
                   <p>
@@ -1596,7 +1596,7 @@ the abſolute tenſes with the conditional. Thus "I can write, but I would not;"
                      <hi>Should I write?</hi> This enquires whether it is my duty to write, either poſitively or conditionally; and is anſwered by <hi>you ſhould,</hi> which, without em<g ref="char:EOLhyphen"/>phaſis, always expreſſes obligation.</p>
                   <p>
                      <hi>Should you write?</hi> The meaning of <hi>ſhould</hi> here de<g ref="char:EOLhyphen"/>pends upon the manner in which it is uttered.
-<pb n="34" facs="tcp:018871_0033_0FA821545FA1FA08"/>
+<pb n="34" facs="unknown:018871_0033_0FA821545FA1FA08"/>
 Without emphaſis it enquires concerning an event merely and is anſwered by <hi>I ſhould,</hi> which declares what my conduct would be under certain circum<g ref="char:EOLhyphen"/>ſtances. But with emphaſis it either expreſſes a ſtronger aſſurance of an event, or a perſon's obli<g ref="char:EOLhyphen"/>gation; in which caſe, the anſwer is alſo emphatical.</p>
                   <p>
                      <hi>Should he write?</hi> without emphaſis, refers mere<g ref="char:EOLhyphen"/>ly to the obligation of the perſon, and the anſwer is declaratory of that obligation, <hi>he ſhould.</hi> But with emphaſis, it refers to the determination of another per<g ref="char:EOLhyphen"/>ſon, which is expreſſed by an emphatical anſwer, <hi>he ſhould.</hi>
@@ -1675,7 +1675,7 @@ Without emphaſis it enquires concerning an event merely and is anſwered by <hi
                   </p>
                   <p>A determination under a condition expreſſed by emphaſis.</p>
                   <p>
-                     <pb n="35" facs="tcp:018871_0034_0FA821551363FD40"/>
+                     <pb n="35" facs="unknown:018871_0034_0FA821551363FD40"/>
                      <table>
                         <row>
                            <cell>Sing.</cell>
@@ -1813,7 +1813,7 @@ Without emphaſis it enquires concerning an event merely and is anſwered by <hi
                      </table>
                   </p>
                   <p>
-                     <pb n="36" facs="tcp:018871_0035_0FA82155CD8F67B0"/>Definite.</p>
+                     <pb n="36" facs="unknown:018871_0035_0FA82155CD8F67B0"/>Definite.</p>
                   <p>
                      <table>
                         <row>
@@ -2019,7 +2019,7 @@ Without emphaſis it enquires concerning an event merely and is anſwered by <hi
                      </table>
                   </p>
                   <p>
-                     <pb n="37" facs="tcp:018871_0036_0FA8215700708898"/>Definite.</p>
+                     <pb n="37" facs="unknown:018871_0036_0FA8215700708898"/>Definite.</p>
                   <p>
                      <table>
                         <row>
@@ -2095,7 +2095,7 @@ Without emphaſis it enquires concerning an event merely and is anſwered by <hi
                   <head>POTENTIAL MODE.</head>
                   <p>The tenſes of this mode are divided into preſent, imperfect, perfect and future; and into abſolute and conditional.</p>
                   <p>
-                     <pb n="38" facs="tcp:018871_0037_0FA821577433C500"/>Preſent Tenſe. Abſolute. Indefinite.</p>
+                     <pb n="38" facs="unknown:018871_0037_0FA821577433C500"/>Preſent Tenſe. Abſolute. Indefinite.</p>
                   <p>This declares an abſolute liberty, power or ne<g ref="char:EOLhyphen"/>ceſſity of doing an action.</p>
                   <p>Singular.</p>
                   <p>
@@ -2180,7 +2180,7 @@ Without emphaſis it enquires concerning an event merely and is anſwered by <hi
                   </p>
                   <p>The condition is not always expreſſed; but is al<g ref="char:EOLhyphen"/>ways implied, and it may precede or follow the po<g ref="char:EOLhyphen"/>tential mode; as, "if I had books, I might learn," or "I might learn, if I had books."</p>
                   <p>This conditional form is alſo uſed abſolutely as an imperfect tenſe, eſpecially in negative and interroga<g ref="char:EOLhyphen"/>tive ſentences; as, "I might not go yeſterday;" "I could not go," "would he go?" &amp;c. Some<g ref="char:EOLhyphen"/>times in affirmative ſentences; as, "Thoſe Iſlanders,
-<pb n="39" facs="tcp:018871_0038_0FA8215813003A30"/>
+<pb n="39" facs="unknown:018871_0038_0FA8215813003A30"/>
 by being leſs expoſed to foreign intercourſe, <hi>could</hi> more eaſily <hi>preſerve</hi> their laws and their virtues."</p>
                   <p>
                      <hi>Eſſay on the characters of women.</hi>
@@ -2243,7 +2243,7 @@ have learned.</p>
                         <desc>•</desc>
                      </gap>n.</p>
                   <p>
-                     <pb n="40" facs="tcp:018871_0039_0FA82158CC8DC2A8"/>Future Tenſe. Indefinite.</p>
+                     <pb n="40" facs="unknown:018871_0039_0FA82158CC8DC2A8"/>Future Tenſe. Indefinite.</p>
                   <p>This is varied like the preſent tenſe abſolute, and is diſtinguiſhed only by ſome ſubſequent word, de<g ref="char:EOLhyphen"/>noting futurity, or by the evident meaning of the phraſe.</p>
                   <p>
                      <list>
@@ -2265,7 +2265,7 @@ be learning, to-morrow, &amp;c.</p>
                <div type="mode">
                   <head>SUBJUNCTIVE MODE.</head>
                   <p>This mode is uſed to expreſs ſomething of a doubt<g ref="char:EOLhyphen"/>ful, contingent, or indeterminate nature. It is al<g ref="char:EOLhyphen"/>ways preceded by ſome other verb on which it has dependence; or by ſome conjunction, implying <hi>condition, ſuppoſition,</hi> &amp;c. as, <hi>if, unleſs, though, whether, leſt</hi> or <hi>except.</hi> Its tenſes ſeem to require a curious diſtinction which I have never ſeen ſufficiently il<g ref="char:EOLhyphen"/>luſtrated. Whenever we ſpeak of a matter of cer<g ref="char:EOLhyphen"/>tainty, we uſe the indicative mode after any of the foregoing conjunctions. For example, "<hi>though</hi> Ar<g ref="char:EOLhyphen"/>nold <hi>was</hi> an American by birth, yet he betrayed his country." Here is no doubt with reſpect to the fact; we therefore uſe the indicative mode <hi>was,</hi> after <hi>though.</hi> But when there is any doubt or condition with reſpect to the fact, we uſe the ſubjunctive mode; as, "though he <hi>ſlay</hi> me yet will I put my truſt in him." Job xiii.15. Here is a condition implied; it would therefore be improper to uſe the indicative, "though he <hi>ſlays</hi> me, &amp;c. But in this
-<pb n="41" facs="tcp:018871_0040_0FA82159C562AD68"/>
+<pb n="41" facs="unknown:018871_0040_0FA82159C562AD68"/>
 mode we uſe another tenſe, which has not been no<g ref="char:EOLhyphen"/>ticed; and which implies the ſuppoſition of a fact di<g ref="char:EOLhyphen"/>rectly the reverſe of what is mentioned. That is, an affirmative ſentence amounts to a full declaration in the negative; and a negative ſentence implies a declaration or confeſſion of the affirmative. Thus, "if I were in Charleſtown," ſuppoſes I am not in Charleſtown; but, "if I were not in Hartford," im<g ref="char:EOLhyphen"/>plies a full certainty that I am in Hartford. This tenſe which, in principal verbs, is the ſame as the imperfect of the indicative mode, I ſhall denominate <hi>hypothetical;</hi> the other, the doubtful tenſe.</p>
                   <p>When we ſpeak of a fact certain in our own minds or granted by all parties, we uſe the indicative; as, "if I <hi>am</hi> writing, it is not your concern."</p>
                   <p>When we ſpeak of a doubtful matter, we uſe the ſubjunctive mode; "if I be writing<note n="*" place="bottom">At leaſt this was formerly the caſe. I<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2281,7 +2281,7 @@ mode we uſe another tenſe, which has not been no<g ref="char:EOLhyphen"/>ticed
                      </gap> much uſed as any in the language. The phraſes, I <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ld go, if it <hi>did</hi> not rain;" "I would walk, if I <hi>were</hi> not lame;" "I would ride, if I <hi>had</hi> a horſe;" "if he <hi>attended</hi> to his ſtudies, he would make a figure, in the literary world;" are as frequent as any in the language;
-<pb n="42" facs="tcp:018871_0041_0FA8215A4A380720"/>
+<pb n="42" facs="unknown:018871_0041_0FA8215A4A380720"/>
 they are evidently preſent time and deſerve a ſepa<g ref="char:EOLhyphen"/>rate place in Grammar. It is needleſs to enquire how this came to be the caſe or to object to its pro<g ref="char:EOLhyphen"/>priety. Cuſtom is ſovereign in the uſe of language; and when univerſal invariable cuſtom has introduced and eſtabliſhed any form of expreſſion, we may poſ<g ref="char:EOLhyphen"/>ſibly doubt its analogy to the rules of other languages, but ought not to ſcruple its propriety in our own.</p>
                   <p>Preſent Tenſe. Doubtful. Indefinite.</p>
                   <p>
@@ -2373,7 +2373,7 @@ they are evidently preſent time and deſerve a ſepa<g ref="char:EOLhyphen"/>ra
                   </p>
                   <p>This tenſe is preceded or followed by the condi<g ref="char:EOLhyphen"/>tional form of the potential; as, "if I learned as faſt as he does, I <hi>ſhould be</hi> as great a ſcholar."</p>
                   <p>This ſame form of expreſſion, which is uſed as a hypothetical tenſe in preſent time, is alſo uſed as the imperfect tenſe doubtful. For example, "if I <hi>learned</hi> wit when young, I ſhall be prudent in old age." This is evidently paſt time and implies uncer<g ref="char:EOLhyphen"/>tainty. That it is a diſtinct form of expreſſion from the preſent hypothetical, is evident from this con<g ref="char:EOLhyphen"/>ſideration, that it is attended with an abſolute decla<g ref="char:EOLhyphen"/>ration;
-<pb n="43" facs="tcp:018871_0042_0FA8215CB844ADA8"/>
+<pb n="43" facs="unknown:018871_0042_0FA8215CB844ADA8"/>
 whereas the hypothetical is always attended with a conditional declaration. Thus, "if I learned as faſt as you do, I <hi>ſhould</hi> be a ſcholar," is hypotheti<g ref="char:EOLhyphen"/>cal; but "if I learned when young, I <hi>ſhall</hi> be wiſe in old age," is doubtful. The firſt is attended with a conditional ſign, <hi>ſhould;</hi> the laſt with a poſitive declaration, <hi>ſhall.</hi>
                   </p>
                   <p>The ſame diſtinction of <hi>doubtful</hi> and <hi>hypothetical,</hi> runs through all the ſeveral modes of expreſſing power, liberty, obligation, &amp;c. The auxiliaries <hi>may, can, muſt,</hi> form the doubtful tenſes; and <hi>might, would, could,</hi> and <hi>ſhould,</hi> the hypothetical. Theſe may be called, by way of diſtinction, the auxiliary tenſes of the ſubjunctive mode.</p>
@@ -2457,7 +2457,7 @@ whereas the hypothetical is always attended with a conditional declaration. Thus
                      </table>
                   </p>
                   <p>Theſe, in affirmative ſentences, imply a ſuppoſition
-<pb n="44" facs="tcp:018871_0043_0FA8215E4B9BBDA0"/>
+<pb n="44" facs="unknown:018871_0043_0FA8215E4B9BBDA0"/>
 that there is no <hi>liberty, power, inclination,</hi> or <hi>obliga<g ref="char:EOLhyphen"/>tion,</hi> to do an action. But in the negative form, they imply a ſuppoſition that there <hi>is</hi> liberty, &amp;c. of doing an action. This tenſe is followed by the conditional form of the potential mode; as, "if I might learn, I would."</p>
                   <p>Note, <hi>Should</hi> and <hi>would,</hi> in this form, refer to event and inclination rather than to obligation and perhaps belong more properly to the future tenſe.</p>
                   <p>The ſame diſtinction and the ſame remarks apply to the paſt time.</p>
@@ -2561,7 +2561,7 @@ that there is no <hi>liberty, power, inclination,</hi> or <hi>obliga<g ref="char
                      </table>
                   </p>
                   <p>This tenſe, in the affirmative form, ſuppoſes that I have not learned and in the negative form, ſuppoſes that I have learned. It is always followed by the
-<pb n="45" facs="tcp:018871_0044_0FA8215E72D39CA8"/>
+<pb n="45" facs="unknown:018871_0044_0FA8215E72D39CA8"/>
 conditional tenſes of the potential mode; as, "if I had learned wit when young, I <hi>ſhould be</hi> more pru<g ref="char:EOLhyphen"/>dent." "If I had not read Virgil when young, I <hi>would</hi> read him now." The firſt is affirmative and ſuppoſes that I did not learn wit when I was young; the laſt is negative and ſuppoſes I did read Virgil when I was young.</p>
                   <p>This ſame tenſe, when followed by a poſitive declaration, is uſed as a pluperfect; as, "though he had learned to read, yet he was no penman." But this implies a certainty or conceſſion of the fact, and ſeems rather the indicative mode.</p>
                   <p>The foregoing paſt tenſe refers to a fact merely; but when there is a reference to the <hi>liberty, power, inclination, neceſſity</hi> or <hi>obligation,</hi> to do an action, it is expreſſed by the paſt tenſe of the potential mode, ſubjoined to a conjunction.</p>
@@ -2618,7 +2618,7 @@ conditional tenſes of the potential mode; as, "if I had learned wit when young,
                   <p>If, &amp;c. I might have been learning, &amp;c.</p>
                   <p>This is the ſame tenſe as the foregoing; but the queſtion is not whether I learned or not; but whether I had liberty, &amp;c. to learn. This tenſe is followed by a declaration in the paſt tenſe of the potential mode; as, "if I could have gone, I <hi>ſhould.</hi>"</p>
                   <p>Note, <hi>Should</hi> and <hi>would,</hi> in this tenſe, without emphaſis denote merely <hi>event</hi> and <hi>inclination,</hi> in all the three perſons. With emphaſis, <hi>ſhould</hi>
-                     <pb n="46" facs="tcp:018871_0045_0FA8215F4A715700"/>
+                     <pb n="46" facs="unknown:018871_0045_0FA8215F4A715700"/>
 denotes obligation and <hi>would</hi> a fixed intention or determination.</p>
                   <p>The ſame remarks will perhaps apply to the following.</p>
                   <p>Future Tenſe. Indefinite.</p>
@@ -2677,7 +2677,7 @@ denotes obligation and <hi>would</hi> a fixed intention or determination.</p>
                   <p>Note, The conjunction is very often omitted and the nominative placed after the verb or auxiliary; as, "were I preſent," inſtead of, "if I were preſent;" "had I been learned," inſtead of, "if I had been learned." This is a common mode of expreſſion and by no means in elegant.</p>
                   <p>In the inflection of the foregoing regular verb, the ſeveral combinations of auxiliaries have been deline<g ref="char:EOLhyphen"/>ated, and their uſes explained. But it has been re<g ref="char:EOLhyphen"/>marked before, that <hi>be, do</hi> and <hi>have</hi> are often princi<g ref="char:EOLhyphen"/>pal verbs; the firſt intranſitive and the two laſt, tranſitive; for which reaſon it is neceſſary to decline them at large, in all modes and tenſes.</p>
                   <p>The Engliſh not having any paſſive verb, make uſe of the verb <hi>be,</hi> joined with the participle in <hi>ed,
-<pb n="47" facs="tcp:018871_0046_0FA8215F8CAD21E8"/>
+<pb n="47" facs="unknown:018871_0046_0FA8215F8CAD21E8"/>
 en, t,</hi> or <hi>ght,</hi> derived of tranſitive verbs, or what has been called the paſſive participle; which form of expreſſion preciſely anſwers to the Latin and Greek paſſive verb. Let the learner therefore be informed that by adding this participle of any tranſitive verb, to the following inflection of <hi>be,</hi> he has the Engliſh form of Latin paſſive verbs.</p>
                </div>
                <div type="mode">
@@ -2845,7 +2845,7 @@ en, t,</hi> or <hi>ght,</hi> derived of tranſitive verbs, or what has been call
                      </table>
                   </p>
                   <p>Note, <hi>Shall,</hi> in the ſecond and third perſons of this tenſe, is uſed only when ſubjoined to ſome
-<pb n="48" facs="tcp:018871_0047_0FA821604A6E16F8"/>
+<pb n="48" facs="unknown:018871_0047_0FA821604A6E16F8"/>
 conjunction; as, "by the time <hi>that</hi> you ſhall have been there an hour," &amp;c. and it denotes event merely.</p>
                </div>
                <div type="mode">
@@ -2959,7 +2959,7 @@ be.</p>
                      </table>
                   </p>
                   <p>
-                     <pb n="49" facs="tcp:018871_0048_0FA8216125DC0FF8"/>Future.</p>
+                     <pb n="49" facs="unknown:018871_0048_0FA8216125DC0FF8"/>Future.</p>
                   <p>This is no otherwiſe diſtinguiſhed from the preſent abſolute, than by ſome ſubſequent words; as, "I may be next week," &amp;c.</p>
                </div>
                <div type="mode">
@@ -3099,7 +3099,7 @@ be.</p>
                   <p>Note, The doubtful forms of power, liberty, &amp;c. are expreſſed by the preſent tenſe abſolute of the potential mode; as, "if I may, can," &amp;c. and the hypothetical forms, by the conditional tenſes of the ſame mode; as, "if I might," &amp;c.</p>
                   <p>It may be further remarked, that the definite tenſes of verbs are all formed by adding the par<g ref="char:EOLhyphen"/>ticiple in <hi>ing,</hi> to the foregoing verb in all its variations.</p>
                   <p>
-                     <pb n="50" facs="tcp:018871_0049_0FA8216253EA7320"/>The indicative form of the future is alſo very often uſed with a preceding conjunction; as, "if I ſhall," &amp;c.</p>
+                     <pb n="50" facs="unknown:018871_0049_0FA8216253EA7320"/>The indicative form of the future is alſo very often uſed with a preceding conjunction; as, "if I ſhall," &amp;c.</p>
                </div>
                <div type="mode">
                   <head>INFINITIVE MODE.</head>
@@ -3276,7 +3276,7 @@ be.</p>
                      </table>
                   </p>
                   <p>
-                     <pb n="51" facs="tcp:018871_0050_0FA821629FF27780"/>Compound.</p>
+                     <pb n="51" facs="unknown:018871_0050_0FA821629FF27780"/>Compound.</p>
                   <p>
                      <table>
                         <row>
@@ -3441,7 +3441,7 @@ do.</p>
                   <p>Future.</p>
                   <p>The ſame as the preſent abſolute, and known only by ſome words denoting futurity; as, "I may do it next week, &amp;c.</p>
                   <p>N. B. The definite tenſes are formed, as in the
-<pb n="52" facs="tcp:018871_0051_0FA821635E4D6688"/>
+<pb n="52" facs="unknown:018871_0051_0FA821635E4D6688"/>
 example of a regular verb, by ſubſtituting <hi>be doing</hi> in the place of <hi>do</hi> in the preſent and future and <hi>been done</hi> in the place of <hi>done</hi> in the paſt.</p>
                </div>
                <div type="mode">
@@ -3571,7 +3571,7 @@ example of a regular verb, by ſubſtituting <hi>be doing</hi> in the place of <
                   </list>
                </div>
                <div type="mode">
-                  <pb n="53" facs="tcp:018871_0052_0FA82164172CF7D8"/>
+                  <pb n="53" facs="unknown:018871_0052_0FA82164172CF7D8"/>
                   <head>INDICATIVE MODE.</head>
                   <p>Preſent.</p>
                   <p>
@@ -3734,7 +3734,7 @@ example of a regular verb, by ſubſtituting <hi>be doing</hi> in the place of <
                   </list>
                </div>
                <div type="mode">
-                  <pb n="54" facs="tcp:018871_0053_0FA82164CF582960"/>
+                  <pb n="54" facs="unknown:018871_0053_0FA82164CF582960"/>
                   <head>POTENTIAL MODE.</head>
                   <p>Preſent. Abſolute.</p>
                   <p>
@@ -3912,7 +3912,7 @@ example of a regular verb, by ſubſtituting <hi>be doing</hi> in the place of <
                      </table>
                   </p>
                   <p>
-                     <pb n="55" facs="tcp:018871_0054_0FA821664991C4A0"/>Hypothetical.</p>
+                     <pb n="55" facs="unknown:018871_0054_0FA821664991C4A0"/>Hypothetical.</p>
                   <p>
                      <table>
                         <row>
@@ -4026,7 +4026,7 @@ example of a regular verb, by ſubſtituting <hi>be doing</hi> in the place of <
                      </table>
                   </p>
                   <p>Here it is obſervable that <hi>may, can, &amp;c.</hi> are em<g ref="char:EOLhyphen"/>ployed before the preſent tenſe <hi>do</hi> or the verb in its
-<pb n="56" facs="tcp:018871_0055_0FA82166716BCB60"/>
+<pb n="56" facs="unknown:018871_0055_0FA82166716BCB60"/>
 original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <hi>done</hi> is uſed after <hi>have</hi> and <hi>be,</hi> but <hi>be</hi> only is uſed with <hi>doing.</hi>
                   </p>
                   <p>When an auxiliary is joined to a verb, the auxilia<g ref="char:EOLhyphen"/>ry only is varied; as, "I <hi>ſhall</hi> do, thou <hi>ſhalt</hi> do," &amp;c.</p>
@@ -4083,7 +4083,7 @@ original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <
                      <label>beſeech</label>
                      <item>beſought</item>
                      <label>
-                        <pb n="57" facs="tcp:018871_0056_0FA821670FE81138"/>bind</label>
+                        <pb n="57" facs="unknown:018871_0056_0FA821670FE81138"/>bind</label>
                      <item>bound</item>
                      <label>bleed</label>
                      <item>bled</item>
@@ -4234,7 +4234,7 @@ original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <
                         <cell>bade</cell>
                         <cell>bidden</cell>
                      </row>
-                     <pb n="58" facs="tcp:018871_0057_0FA8216826D90D98"/>
+                     <pb n="58" facs="unknown:018871_0057_0FA8216826D90D98"/>
                      <row>
                         <cell>bite</cell>
                         <cell>bit</cell>
@@ -4420,7 +4420,7 @@ original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <
                         <cell>ſawed</cell>
                         <cell>ſawn</cell>
                      </row>
-                     <pb n="59" facs="tcp:018871_0058_0FA8216BC1D65258"/>
+                     <pb n="59" facs="unknown:018871_0058_0FA8216BC1D65258"/>
                      <row>
                         <cell>ſeeth</cell>
                         <cell>ſod</cell>
@@ -4601,7 +4601,7 @@ original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <
                         <cell>wore</cell>
                         <cell>worn</cell>
                      </row>
-                     <pb n="60" facs="tcp:018871_0059_0FA8216CB7964920"/>
+                     <pb n="60" facs="unknown:018871_0059_0FA8216CB7964920"/>
                      <row>
                         <cell>weave</cell>
                         <cell>wove</cell>
@@ -4659,7 +4659,7 @@ original form. The paſt time <hi>did</hi> admits no auxiliary. The participle <
                   </p>
                </div>
                <div type="mode">
-                  <pb n="61" facs="tcp:018871_0060_0FA8216D0B5CC870"/>
+                  <pb n="61" facs="unknown:018871_0060_0FA8216D0B5CC870"/>
                   <head>INDICATIVE MODE.</head>
                   <p>Preſent.</p>
                   <p>Indefinite. Definite.</p>
@@ -4778,7 +4778,7 @@ been writing, &amp;c.</p>
                      </table>
                   </p>
                   <p>
-                     <pb n="62" facs="tcp:018871_0061_0FA8216DD151AF70"/>Perfect. Abſolute and Conditional.</p>
+                     <pb n="62" facs="unknown:018871_0061_0FA8216DD151AF70"/>Perfect. Abſolute and Conditional.</p>
                   <p>Indefinite. Definite.</p>
                   <p>
                      <table>
@@ -4907,7 +4907,7 @@ been writing, &amp;c.</p>
                      </table>
                   </p>
                   <p>
-                     <pb n="63" facs="tcp:018871_0062_0FA8216F02D63240"/>Future.</p>
+                     <pb n="63" facs="unknown:018871_0062_0FA8216F02D63240"/>Future.</p>
                   <p>Indefinite. Definite.</p>
                   <p>
                      <table>
@@ -4949,7 +4949,7 @@ been writing, &amp;c.</p>
             </p>
             <p>
                <hi>Which are ſome of the adverbs moſt commonly uſed?</hi> Already, alway, by and by, elſe, ever, enough, far, hence, here, how, hither, indeed, much, no, not,
-<pb n="64" facs="tcp:018871_0063_0FA8216F83354230"/>
+<pb n="64" facs="unknown:018871_0063_0FA8216F83354230"/>
 never, now, often, perhaps, rather, ſeldom, then, thence, there, very, when, where, whether whilſt, yes, yeſterday.</p>
             <p>All adjectives may be made adverbs, by adding <hi>ly:</hi> as, honeſt, honeſtly<note n="*" place="bottom">We are apt to uſe adjectives inſtead of adverbs, as in the fol<g ref="char:EOLhyphen"/>lowing expreſſions; "extreme cold; exceeding fine; indiffer<g ref="char:EOLhyphen"/>ent well;" all which are very improper and ungrammatical. We ought to make the firſt an adverb by adding <hi>ly,</hi> thus, "ex<g ref="char:EOLhyphen"/>tremely cold; exceedingly fine; indifferently well." So alſo we ſay, "he ſpeaks proper," when we mean "he ſpeaks proper<g ref="char:EOLhyphen"/>ly."</note>.</p>
          </div>
@@ -5024,7 +5024,7 @@ never, now, often, perhaps, rather, ſeldom, then, thence, there, very, when, wh
             <p>
                <hi>Which are the inſeparable prepoſitions?</hi> A, be, con, diſ, miſ, per, pre, re, ſub, un.</p>
             <p>
-               <pb n="65" facs="tcp:018871_0064_0FA82170151504B8"/>
+               <pb n="65" facs="unknown:018871_0064_0FA82170151504B8"/>
                <hi>What is the uſe of prepoſitions in compoſition with other words?</hi> They commonly give a new meaning to the word, as is obſervable in the following:
 <list>
                   <label>Original words.</label>
@@ -5118,7 +5118,7 @@ never, now, often, perhaps, rather, ſeldom, then, thence, there, very, when, wh
                <hi>What is an interjection?</hi> It is word <hi>thrown in</hi> to expreſs an affection of the mind or a ſudden paſſion; as, <hi>grief, joy, wonder,</hi> &amp;c. It has no connection with the ſentence either by <hi>government</hi> or <hi>agreement.</hi> Ah! alas! oh! fie! piſh! or any ſounds expreſſing the feelings of the ſpeaker, are interjections.</p>
          </div>
          <div type="subject">
-            <pb n="66" facs="tcp:018871_0065_0FA82170D3CD6D70"/>
+            <pb n="66" facs="unknown:018871_0065_0FA82170D3CD6D70"/>
             <head>SENTENCES.</head>
             <p>
                <hi>What is a ſentence?</hi> A <hi>ſentence</hi> is a number of words, ranged in <hi>proper</hi> order and making <hi>complete</hi> ſenſe.</p>
@@ -5154,7 +5154,7 @@ never, now, often, perhaps, rather, ſeldom, then, thence, there, very, when, wh
                   </p>
                </div>
                <div n="2" type="remark">
-                  <pb n="67" facs="tcp:018871_0066_0FA8217195059B68"/>
+                  <pb n="67" facs="unknown:018871_0066_0FA8217195059B68"/>
                   <head>REMARK 2.</head>
                   <p>When <hi>there, nor or neither,</hi> precedes the verb, in the beginning of a phraſe, the nominative follows the verb or auxiliary; as, "<hi>there</hi> was a man;" "<hi>nor</hi> am I ſolicitous;" "neither hath this <hi>man</hi> ſin<g ref="char:EOLhyphen"/>ned, nor his parents." John ix. 3.</p>
                </div>
@@ -5191,7 +5191,7 @@ much delighted with it; I <hi>wiſhes</hi>
                         <note n="17" place="bottom">could.</note>
 ſee it and obſerve its manners.</p>
                      <p>N. B. The nominative to a verb is found by aſking a queſtion, who or what? Example: "A clear conſcience, which we ought carefully to pre<g ref="char:EOLhyphen"/>ſerve, in every ſtation of life, and which will ſecure to us a perpetual ſource of inward tranquillity, will alſo be our principal guard againſt the abuſes of ma<g ref="char:EOLhyphen"/>levolence.." Here the queſtion occurs, what will be our guard? &amp;c. the anſwer is, a clear <hi>conſcience;</hi>
-                        <pb n="68" facs="tcp:018871_0067_0FA821724ED38070"/>
+                        <pb n="68" facs="unknown:018871_0067_0FA821724ED38070"/>
 which is therefore the nominative word to the verb <hi>be.</hi> The noun to which an adjective refers, is found in the ſame manner. Example: "A man in office, to whom ſome important truſt is committed, ought to be exceedingly cautious in his behaviour." Aſk the queſtion, who ought to be <hi>cautious</hi>? the anſwer is, a <hi>man</hi> in office; <hi>man</hi> therefore is the noun, to which the adjective <hi>cautious</hi> refers.</p>
                   </div>
                </div>
@@ -5219,7 +5219,7 @@ which is therefore the nominative word to the verb <hi>be.</hi> The noun to whic
                      <note n="1" place="bottom">are.</note> very neceſſary for men in high ſtations. Peace and ſecurity <hi>is</hi>
                      <note n="2" place="bottom">are.</note> the happi<g ref="char:EOLhyphen"/>neſs of a community. Sobriety and humility <hi>leads</hi>
                      <note n="3" place="bottom">lead.</note>
-                     <pb n="69" facs="tcp:018871_0068_0FA8217313E27058"/>
+                     <pb n="69" facs="unknown:018871_0068_0FA8217313E27058"/>
 to honour. You and I <hi>is</hi>
                      <note n="4" place="bottom">are.</note> very ſtudious. You and he <hi>was</hi>
                      <note n="5" place="bottom">were.</note> accounted good <hi>ſcholar</hi>
@@ -5253,7 +5253,7 @@ to honour. You and I <hi>is</hi>
                      <hi>Aſſembly</hi> is a noun of multitude, and may be unit<g ref="char:EOLhyphen"/>ed with <hi>is</hi> in the ſingular or with <hi>are</hi> in the plural number. The ſame is obſervable of <hi>people</hi> and <hi>com<g ref="char:EOLhyphen"/>pany.</hi>
                   </p>
                   <p>N. B. We ſhould have ſtrict regard to the meaning of theſe collective nouns, in determining whether the ſingular or plural number is moſt proper to be joined with them. And if the indefinite arti<g ref="char:EOLhyphen"/>cle <hi>a</hi> or <hi>an</hi> precede the noun, the verb muſt be
-<pb n="70" facs="tcp:018871_0069_0FA8217594A16328"/>
+<pb n="70" facs="unknown:018871_0069_0FA8217594A16328"/>
 ſingular; as, "<hi>a</hi> people <hi>is,</hi>" "<hi>a</hi> company <hi>was,</hi>" &amp;c.</p>
                </div>
                <div type="false_construction">
@@ -5332,7 +5332,7 @@ many inhabitants.</p>
                   </p>
                </div>
                <div type="exceptions">
-                  <pb n="71" facs="tcp:018871_0070_0FA821768DA8A4A0"/>
+                  <pb n="71" facs="unknown:018871_0070_0FA821768DA8A4A0"/>
                   <head>EXCEPTIONS.</head>
                   <p>I. When ſomething depends on an adjective, it fol<g ref="char:EOLhyphen"/>lows the noun; as,</p>
                   <p>
@@ -5480,7 +5480,7 @@ many inhabitants.</p>
                      </table>
                   </p>
                   <p>
-                     <pb n="72" facs="tcp:018871_0071_0FA82176D5CB0678"/>But they are placed after the adjectives <hi>all, ſuch</hi> and <hi>many</hi>; thus,
+                     <pb n="72" facs="unknown:018871_0071_0FA82176D5CB0678"/>But they are placed after the adjectives <hi>all, ſuch</hi> and <hi>many</hi>; thus,
 <table>
                         <row>
                            <cell role="label">
@@ -5586,7 +5586,7 @@ many inhabitants.</p>
                   <head>REMARKS 5.</head>
                   <p>Adjectives frequently become nouns, take the plural form, and ſtand as a nominative or objective word; as, "<hi>evil</hi> be to them that <hi>evil</hi> think;" "the chief <hi>good.</hi>" "the <hi>evils</hi> of life;" "the <hi>goods</hi> of for<g ref="char:EOLhyphen"/>tune."</p>
                   <p>
-                     <pb n="73" facs="tcp:018871_0072_0FA8217797C8FD40"/>
+                     <pb n="73" facs="unknown:018871_0072_0FA8217797C8FD40"/>
                      <hi>Evil</hi> and <hi>good</hi> are originally adjectives; but in theſe expreſſions, they ſtand for nouns.</p>
                   <p>When two nouns are joined by a hyphen, thus, ſea-water, fire-ſhovel, glaſs-window, the firſt noun has the nature of an adjective.</p>
                </div>
@@ -5626,7 +5626,7 @@ many inhabitants.</p>
                   <p>In the firſt example, <hi>boy</hi> the antecedent, is maſcu<g ref="char:EOLhyphen"/>line gender; therefore <hi>who</hi> and <hi>he,</hi> the relative and pronoun, muſt be maſculine.</p>
                   <p>In the ſecond, <hi>girl</hi> the antecedent, is feminine; therefore the relative <hi>who</hi> and pronoun <hi>ſhe</hi> are femi<g ref="char:EOLhyphen"/>nine.</p>
                   <p>
-                     <pb n="74" facs="tcp:018871_0073_0FA821785930DE28"/>In the third, <hi>pen</hi> the antecedent, is neuter or of nei<g ref="char:EOLhyphen"/>ther gender; therefore the relative <hi>which</hi> and pronoun <hi>it</hi> muſt be uſed; theſe ſtanding for things without life.</p>
+                     <pb n="74" facs="unknown:018871_0073_0FA821785930DE28"/>In the third, <hi>pen</hi> the antecedent, is neuter or of nei<g ref="char:EOLhyphen"/>ther gender; therefore the relative <hi>which</hi> and pronoun <hi>it</hi> muſt be uſed; theſe ſtanding for things without life.</p>
                </div>
                <div type="remark">
                   <head>REMARK.</head>
@@ -5668,7 +5668,7 @@ delights in villany, muſt be rewarded with the infa<g ref="char:EOLhyphen"/>my 
                <div type="examples">
                   <head>EXAMPLES.</head>
                   <p>This is the man, <hi>who taught</hi> rhetoric. The eſtates
-<pb n="75" facs="tcp:018871_0074_0FA821791A5CFE30"/>
+<pb n="75" facs="unknown:018871_0074_0FA821791A5CFE30"/>
 of thoſe <hi>who have</hi> taken arms againſt their country, ought to be confiscated. We have a conſtitution, <hi>which ſecures</hi> our rights.</p>
                </div>
                <div type="explanation">
@@ -5698,7 +5698,7 @@ of thoſe <hi>who have</hi> taken arms againſt their country, ought to be confi
                   <p>N. B. The compounds of <hi>who,</hi> follow the ſame rule. "Whoever I am;" "whomſoever you pleaſe to appoint."</p>
                </div>
                <div type="false_construction">
-                  <pb n="76" facs="tcp:018871_0075_0FA82179CCD00F50"/>
+                  <pb n="76" facs="unknown:018871_0075_0FA82179CCD00F50"/>
                   <head>FALSE CONSTRUCTION.</head>
                   <p>The boys, <hi>who</hi>
                      <note n="1" place="bottom">whom.</note> I admire, are thoſe that ſtudy. The women, <hi>who</hi>
@@ -5740,7 +5740,7 @@ poſſeſs modeſty, are always reſpected.</p>
                   <p>See that <hi>boys</hi>
                      <note n="8" place="bottom">boy's.</note> impudence; he diſobeys his <hi>maſters</hi>
                      <note n="9" place="bottom">maſter's.</note>
-                     <pb n="77" facs="tcp:018871_0076_0FA8217B00F23FA0"/>
+                     <pb n="77" facs="unknown:018871_0076_0FA8217B00F23FA0"/>
 orders. That <hi>girls</hi>
                      <note n="10" place="bottom">girl's</note> bonnet is awry. <hi>John his</hi>
                      <note n="11" place="bottom">John's.</note>
@@ -5825,7 +5825,7 @@ book is loſt. This is <hi>George his</hi>
             <div n="10" type="rule">
                <head>RULE X.</head>
                <p>The anſwer muſt be in the ſame caſe, as the queſtion; it being always governed of the verb that
-<pb n="78" facs="tcp:018871_0077_0FA8217B80592C20"/>
+<pb n="78" facs="unknown:018871_0077_0FA8217B80592C20"/>
 aſks the queſtion, though the verb be not expreſſ<g ref="char:EOLhyphen"/>ed.</p>
                <div type="examples">
                   <head>EXAMPLES.</head>
@@ -5940,7 +5940,7 @@ aſks the queſtion, though the verb be not expreſſ<g ref="char:EOLhyphen"/>ed
                         <item>
                            <hi>Whom</hi> did you give it <hi>to</hi>?</item>
                         <item>
-                           <pb n="79" facs="tcp:018871_0078_0FA8217C0BF1DC80"/>
+                           <pb n="79" facs="unknown:018871_0078_0FA8217C0BF1DC80"/>
                            <hi>whom</hi> did you come <hi>with</hi>?</item>
                         <item>
                            <hi>him</hi> I will attend <hi>to.</hi>
@@ -6022,7 +6022,7 @@ aſks the queſtion, though the verb be not expreſſ<g ref="char:EOLhyphen"/>ed
                   </p>
                   <p>But theſe are growing into diſuſe and will proba<g ref="char:EOLhyphen"/>bly be ſoon baniſhed from the language.</p>
                   <p>
-                     <pb n="80" facs="tcp:018871_0079_0FA8217CD8FE4CD8"/>Note, Prepoſitions are ſometimes prefixed to ad<g ref="char:EOLhyphen"/>verbs; as, <hi>to where, from where, over where,</hi> &amp;c. This is only an elliptical form of ex<g ref="char:EOLhyphen"/>preſſion; the word <hi>place</hi> or ſome word of the ſame import, being implied. For example; "The weſtern limit of the United States ex<g ref="char:EOLhyphen"/>tends along the middle of the river Miſſiſippi, <hi>to where</hi> it interſects the thirty-firſt degree of north latitude;" that is, to the <hi>place where.</hi> But the phraſe is by no means elegant.</p>
+                     <pb n="80" facs="unknown:018871_0079_0FA8217CD8FE4CD8"/>Note, Prepoſitions are ſometimes prefixed to ad<g ref="char:EOLhyphen"/>verbs; as, <hi>to where, from where, over where,</hi> &amp;c. This is only an elliptical form of ex<g ref="char:EOLhyphen"/>preſſion; the word <hi>place</hi> or ſome word of the ſame import, being implied. For example; "The weſtern limit of the United States ex<g ref="char:EOLhyphen"/>tends along the middle of the river Miſſiſippi, <hi>to where</hi> it interſects the thirty-firſt degree of north latitude;" that is, to the <hi>place where.</hi> But the phraſe is by no means elegant.</p>
                   <p>Note further, that prepoſitions are often placed af<g ref="char:EOLhyphen"/>ter verbs and become a part of them; being eſ<g ref="char:EOLhyphen"/>ſential to the meaning. Thus, in the phraſes, <hi>to fall on, to give over, to caſt up</hi> (an account) the particles <hi>on, over, up,</hi> are eſſential to the verbs to which they are annexed, becauſe on them depends the meaning of the phraſes. This ſort of verbs is purely Saxon and they ſeem to be growing into diſuſe; but they are often very ſignificant and their place cannot always be ſup<g ref="char:EOLhyphen"/>plied by any ſingle word.</p>
                </div>
             </div>
@@ -6046,7 +6046,7 @@ aſks the queſtion, though the verb be not expreſſ<g ref="char:EOLhyphen"/>ed
                   <head>REMARK.</head>
                   <p>When a compariſon is made between different perſons or things, the word that follows <hi>than,</hi> is not governed of it, but of ſome verb or prepoſition im<g ref="char:EOLhyphen"/>plied; thus,
 <table>
-                        <pb n="81" facs="tcp:018871_0080_0FA8217D8DA9AA58"/>
+                        <pb n="81" facs="unknown:018871_0080_0FA8217D8DA9AA58"/>
                         <row>
                            <cell>You are taller than <hi>I.</hi>
                            </cell>
@@ -6150,7 +6150,7 @@ was there. He taught both me and <hi>ſhe</hi>
                   <p>In the firſt example, <hi>practiſe,</hi> is a verb in the in<g ref="char:EOLhyphen"/>finitive mode, following the verb <hi>learn.</hi>
                   </p>
                   <p>
-                     <pb n="82" facs="tcp:018871_0081_0FA8217E498224A0"/>In the ſecond, <hi>learn,</hi> is in the infinitive, follow<g ref="char:EOLhyphen"/>ing the noun <hi>opportunity.</hi>
+                     <pb n="82" facs="unknown:018871_0081_0FA8217E498224A0"/>In the ſecond, <hi>learn,</hi> is in the infinitive, follow<g ref="char:EOLhyphen"/>ing the noun <hi>opportunity.</hi>
                   </p>
                   <p>In the third, <hi>be,</hi> is in the infinitive, following the adjective <hi>worthy.</hi>
                   </p>
@@ -6201,7 +6201,7 @@ was there. He taught both me and <hi>ſhe</hi>
                <head>RULE XIV.</head>
                <p>A participle, with a prepoſition preceding it, an<g ref="char:EOLhyphen"/>ſwers to the Latin gerund, and may govern an ob<g ref="char:EOLhyphen"/>jective word or caſe.</p>
                <div type="examples">
-                  <pb n="83" facs="tcp:018871_0082_0FA82180F99EFA00"/>
+                  <pb n="83" facs="unknown:018871_0082_0FA82180F99EFA00"/>
                   <head>EXAMPLES.</head>
                   <list>
                      <item>
@@ -6302,7 +6302,7 @@ was there. He taught both me and <hi>ſhe</hi>
                </div>
             </div>
             <div n="15" type="rule">
-               <pb n="84" facs="tcp:018871_0083_0FA8218200416630"/>
+               <pb n="84" facs="unknown:018871_0083_0FA8218200416630"/>
                <head>RULE XV.</head>
                <p>A nominative caſe or word, joined with a parti<g ref="char:EOLhyphen"/>ciple, often ſtands independently of the ſentence. This is called, the caſe abſolute.</p>
                <div type="examples">
@@ -6369,7 +6369,7 @@ was there. He taught both me and <hi>ſhe</hi>
                </p>
                <p n="3">3. It is placed between an auxiliary and a verb or participle; as,
 <table>
-                     <pb n="85" facs="tcp:018871_0084_0FA8218228760458"/>
+                     <pb n="85" facs="unknown:018871_0084_0FA8218228760458"/>
                      <row>
                         <cell role="label"> </cell>
                         <cell role="label">
@@ -6484,7 +6484,7 @@ was there. He taught both me and <hi>ſhe</hi>
                <head>RULE XVII.</head>
                <p>Conjunctions implying doubt or ſuppoſition gov<g ref="char:EOLhyphen"/>ern the ſubjunctive mode.</p>
                <p>
-                  <pb n="86" facs="tcp:018871_0085_0FA82182F5549E50"/>EXAMPLES.</p>
+                  <pb n="86" facs="unknown:018871_0085_0FA82182F5549E50"/>EXAMPLES.</p>
                <q>
                   <p>"<hi>Though</hi> he <hi>ſlay</hi> me, yet will I truſt in him."</p>
                   <bibl>Job xiii.15.</bibl>
@@ -6541,7 +6541,7 @@ was there. He taught both me and <hi>ſhe</hi>
                      </table>
                   </p>
                   <p>
-                     <pb n="87" facs="tcp:018871_0086_0FA8218427F2B328"/>EXAMPLES.</p>
+                     <pb n="87" facs="unknown:018871_0086_0FA8218427F2B328"/>EXAMPLES.</p>
                   <p>
                      <hi>Although</hi> our enemies were powerful, <hi>yet</hi> we de<g ref="char:EOLhyphen"/>feated them.</p>
                   <p>
@@ -6570,7 +6570,7 @@ was there. He taught both me and <hi>ſhe</hi>
                <head>EXAMPLE 1.</head>
                <p>"A woman who has merit, improved by a virtu<g ref="char:EOLhyphen"/>ous and refined education, retains, in her decline, an influence over the men, more flattering than even that of beauty: She is the delight of her friends, as formerly of her admirers."</p>
                <p>"Admirable would be the effects of ſuch refined education, contributing no leſs to public good than
-<pb n="88" facs="tcp:018871_0087_0FA82184A028FC88"/>
+<pb n="88" facs="unknown:018871_0087_0FA82184A028FC88"/>
 to private happineſs. A man, who at preſent muſt degrade himſelf into a fop or a coxcomb, in order to pleaſe the women, would ſoon diſcover, that their favour is not to be gained, but by exerting every manly talent in public and private life, and the two ſexes, inſtead of corrupting each other, would be ri<g ref="char:EOLhyphen"/>vals in the race of virtue. Mutual eſteem would be to each a ſchool of urbanity; and mutual deſire of pleaſing would give ſmoothneſs to their behaviour, delicacy to their ſentiments and tenderneſs to their paſſions." Home's Hiſt. Man. Sketch 6.</p>
                <p>The foregoing paragraph may be analyzed as fol<g ref="char:EOLhyphen"/>lows:
 <list>
@@ -6594,7 +6594,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      <label>virtuous</label>
                      <item>An adjective, derived from the noun <hi>virtue,</hi> referring to the noun <hi>edu<g ref="char:EOLhyphen"/>cation</hi> and expreſſing the nature of it, by rule 4.</item>
                      <label>
-                        <pb n="89" facs="tcp:018871_0088_0FA82185133C7810"/>
+                        <pb n="89" facs="unknown:018871_0088_0FA82185133C7810"/>
                         <hi>and</hi>
                      </label>
                      <item>
@@ -6633,7 +6633,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>Note, <hi>Flattering</hi> with the help of the ad<g ref="char:EOLhyphen"/>verb <hi>more</hi> forms the comparative de<g ref="char:EOLhyphen"/>gree.</p>
                      </item>
                      <label>
-                        <pb n="90" facs="tcp:018871_0089_0FA82185D5777BC0"/>
+                        <pb n="90" facs="unknown:018871_0089_0FA82185D5777BC0"/>
                         <hi>than</hi>
                      </label>
                      <item>A conjunction.</item>
@@ -6677,7 +6677,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      <item>
                         <hi>Would</hi> is an auxiliary, and <hi>be</hi> an intranſi<g ref="char:EOLhyphen"/>tive verb, when united they form the preſent tenſe conditional of the poten<g ref="char:EOLhyphen"/>tial mode, third perſon plural, agree<g ref="char:EOLhyphen"/>ing with the nominative <hi>effects,</hi> which follows its verb by remark 1, on rule 1.</item>
                      <label>
-                        <pb n="91" facs="tcp:018871_0090_0FA82186B7415AF0"/>
+                        <pb n="91" facs="unknown:018871_0090_0FA82186B7415AF0"/>
                         <hi>the</hi>
                      </label>
                      <item>The indefinite article.</item>
@@ -6721,7 +6721,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      <label>at preſent</label>
                      <item>Uſed adverbially; <hi>at</hi> is properly a prepo<g ref="char:EOLhyphen"/>ſition and <hi>preſent</hi> an adjective, and it is probable that the expreſſion is a con<g ref="char:EOLhyphen"/>traction of, <hi>at the preſent time;</hi> but as they are now uſed, <hi>at preſent</hi> ſupply the place of an adverb.</item>
                      <label>
-                        <pb n="92" facs="tcp:018871_0091_0FA821874E398290"/>
+                        <pb n="92" facs="unknown:018871_0091_0FA821874E398290"/>
                         <hi>muſt</hi>
                      </label>
                      <item>An auxiliary, importing neceſſity.</item>
@@ -6772,7 +6772,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      <item>A noun, ſingular, nominative to <hi>is.</hi>
                      </item>
                      <label>
-                        <pb n="93" facs="tcp:018871_0092_0FA821880C70BCF8"/>
+                        <pb n="93" facs="unknown:018871_0092_0FA821880C70BCF8"/>
                         <hi>is</hi>
                      </label>
                      <item>An intranſitive verb, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6858,7 +6858,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      </label>
                      <item>A diſtributive pronominal adjective<g ref="char:punc">▪</g> agreeing with <hi>other,</hi> by rule 4.</item>
                      <label>
-                        <pb n="94" facs="tcp:018871_0093_0FA82188CCA22180"/>
+                        <pb n="94" facs="unknown:018871_0093_0FA82188CCA22180"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>
@@ -6929,7 +6929,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                      <label>of</label>
                      <item>As before.</item>
                      <label>
-                        <pb n="95" facs="tcp:018871_0094_0FA821898CAD1248"/>
+                        <pb n="95" facs="unknown:018871_0094_0FA821898CAD1248"/>
                         <hi>pleaſing</hi>
                      </label>
                      <item>A participle<g ref="char:punc">▪</g> from the verb <hi>pleaſe,</hi> gov<g ref="char:EOLhyphen"/>erned by <hi>of,</hi> by rule 14.</item>
@@ -6970,7 +6970,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                </p>
             </div>
             <div n="2" type="example">
-               <pb n="96" facs="tcp:018871_0095_0FA8218A4F6B6EF8"/>
+               <pb n="96" facs="unknown:018871_0095_0FA8218A4F6B6EF8"/>
                <head>EXAMPLE 2.</head>
                <p>"The argument indeed would be concluſive, were ten females born for one male."</p>
                <p>Home's Hiſt. Man, Sketch 6.</p>
@@ -7009,7 +7009,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
          <div type="examples">
             <p>The importance of ſtudying our language gram<g ref="char:EOLhyphen"/>matically, illuſtrated by the obvious errors which are found in the ſacred writings and in the works of our beſt authors.</p>
             <q>
-               <pb n="97" facs="tcp:018871_0096_0FA8218B2F9F2598"/>
+               <pb n="97" facs="unknown:018871_0096_0FA8218B2F9F2598"/>
                <floatingText xml:lang="unk">
                   <body>
                      <div type="errors">
@@ -7031,7 +7031,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                            <hi>Who</hi> ſhould I meet the other night. Spectator No. 32.</p>
                         <p>Laying the ſuſpicion upon ſomebody, I know not <hi>who.</hi> Swift.</p>
                         <p>
-                           <pb n="98" facs="tcp:018871_0097_0FA8218BC81E27D0"/>
+                           <pb n="98" facs="unknown:018871_0097_0FA8218BC81E27D0"/>
                            <hi>Whom</hi> do men ſay that I am?</p>
                         <p>But <hi>whom</hi> ſay ye that I am? Matth. xvi 13 15.</p>
                         <p>So alſo Mark viii.27 29. Luke ix.18 20. Acts xiii.25.</p>
@@ -7045,7 +7045,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>To ſee ſo many <hi>to make</hi> ſo little conſcience of ſo great a ſin. Tillotſon.</p>
                         <p>To ſee a young perſon <hi>to acquit</hi> himſelf gloriouſ<g ref="char:EOLhyphen"/>ly. Ibid.</p>
                         <p>
-                           <pb n="99" facs="tcp:018871_0098_0FA8218EB9C86390"/>I hope, my Lord, I <hi>not</hi> offend.</p>
+                           <pb n="99" facs="unknown:018871_0098_0FA8218EB9C86390"/>I hope, my Lord, I <hi>not</hi> offend.</p>
                         <p>She <hi>not denies</hi> it.</p>
                         <p>Which they themſelves <hi>not feel.</hi> Dryden.</p>
                         <p>I have not wept <hi>this forty</hi> years. Dryden.</p>
@@ -7054,7 +7054,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>Let <hi>each</hi> eſteem other better than <hi>themſelves.</hi> Phill. ii.3.</p>
                      </div>
                      <div type="corrections">
-                        <pb n="97" facs="tcp:018871_0096_0FA8218B2F9F2598"/>
+                        <pb n="97" facs="unknown:018871_0096_0FA8218B2F9F2598"/>
                         <head>CORRECTED.</head>
                         <p>The number of the names together <hi>was</hi> a<g ref="char:EOLhyphen"/>bout an hundred and twenty. By rule 1.</p>
                         <p>The number of the months <hi>is</hi> with thee. By ibid.</p>
@@ -7073,7 +7073,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                               <desc>••</desc>
                            </gap>mebody I know not <hi>whom.</hi> By ibid.</p>
                         <p>
-                           <pb n="98" facs="tcp:018871_0097_0FA8218BC81E27D0"/>
+                           <pb n="98" facs="unknown:018871_0097_0FA8218BC81E27D0"/>
                            <hi>Who</hi> do men ſay that I am?</p>
                         <p>But <hi>who</hi> ſay ye that I am?</p>
                         <p>By remark on rule 6.</p>
@@ -7090,7 +7090,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>To ſee a young perſon <hi>acquit,</hi> &amp;c.</p>
                         <p>See remark 3, on rule 13.</p>
                         <p>
-                           <pb n="99" facs="tcp:018871_0098_0FA8218EB9C86390"/>I hope, my Lord, I <hi>not offend.</hi>
+                           <pb n="99" facs="unknown:018871_0098_0FA8218EB9C86390"/>I hope, my Lord, I <hi>not offend.</hi>
                         </p>
                         <p>She <hi>denies</hi> it <hi>not.</hi>
                         </p>
@@ -7128,7 +7128,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                            <hi>Quickeſt</hi> and <hi>frequent</hi> would be employed with more propriety.</p>
                      </div>
                      <div type="errors">
-                        <pb n="100" facs="tcp:018871_0099_0FA820DC652EA958"/>
+                        <pb n="100" facs="unknown:018871_0099_0FA820DC652EA958"/>
                         <head>Other Improprieties.</head>
                         <p>I had rather.</p>
                         <p>He is a great ways off, or good ways off.</p>
@@ -7171,7 +7171,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>2. Give your heart to your maker—<hi>give</hi> hon<g ref="char:EOLhyphen"/>our to your parents—and <hi>give</hi> your boſom to your friend.</p>
                         <p>3. Here is the virtue <hi>which</hi> I admire and <hi>which</hi> I will endeavour to imitate.</p>
                         <p>
-                           <pb n="101" facs="tcp:018871_0100_0FA820DDD1074C78"/>
+                           <pb n="101" facs="unknown:018871_0100_0FA820DDD1074C78"/>
 4. Avoid company which <hi>company</hi> has a tendency to corrupt your manners.</p>
                         <p>5. This horſe is the Gene<g ref="char:EOLhyphen"/>ral's <hi>horſe.</hi>
                         </p>
@@ -7192,7 +7192,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                         <p>13. You write better than I <hi>write.</hi>
                         </p>
                         <p>
-                           <pb n="102" facs="tcp:018871_0101_0FA820DE0C85CB98"/>An ellipſis in the beginning of a ſentence is often admiſſible</p>
+                           <pb n="102" facs="unknown:018871_0101_0FA820DE0C85CB98"/>An ellipſis in the beginning of a ſentence is often admiſſible</p>
                         <p>True Conſtruction. 14. I always have <hi>been faithful to my country</hi> and always will be faithful to my country.</p>
                         <p>In an enumeration of particulars, the conjunction <hi>and</hi> is elegantly ſuppreſſed, except before the laſt particular.</p>
                         <p>15. Love <hi>and</hi> joy <hi>and</hi> peace and endleſs felicity will be the portion of the righteous.</p>
@@ -7214,7 +7214,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                            <p>Here is the virtue I ad<g ref="char:EOLhyphen"/>mire and will endeavour to imitate<note n="†" place="bottom">Authors are too apt to omit the relative; and in this exam<g ref="char:EOLhyphen"/>ple it would be better to omit the laſt only. The perſpicuity of a ſentence depends much on the proper uſe of relatives and pro<g ref="char:EOLhyphen"/>nouns.</note>.</p>
                         </div>
                         <div type="example">
-                           <pb n="101" facs="tcp:018871_0100_0FA820DDD1074C78"/>
+                           <pb n="101" facs="unknown:018871_0100_0FA820DDD1074C78"/>
                            <head>Antecedent omitted.</head>
                            <p>Avoid company which has a tendency to corrupt your manners<g ref="char:punc">▪</g>
                            </p>
@@ -7232,7 +7232,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                            <p>You write better than I do.</p>
                         </div>
                         <div type="example">
-                           <pb n="102" facs="tcp:018871_0101_0FA820DE0C85CB98"/>
+                           <pb n="102" facs="unknown:018871_0101_0FA820DE0C85CB98"/>
                            <head>Elliptical.</head>
                            <p>I always have and al<g ref="char:EOLhyphen"/>ways will be faithful to my country.</p>
                            <p>Love, joy, peace and endleſs felicity will be the portion of the righ<g ref="char:EOLhyphen"/>teous.</p>
@@ -7254,7 +7254,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                <hi>Artificial</hi> order is when words are ſo arranged as to render the ſentence harmonious and agreeable to the ear, without obſcuring the ſenſe<g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="103" facs="tcp:018871_0102_0FA820DE8CA296B0"/>EXAMPLES in PROSE.</p>
+               <pb n="103" facs="unknown:018871_0102_0FA820DE8CA296B0"/>EXAMPLES in PROSE.</p>
             <q>
                <floatingText xml:lang="unk">
                   <body>
@@ -7288,7 +7288,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
             </q>
          </div>
          <div type="subject">
-            <pb n="104" facs="tcp:018871_0103_0FA820DF4C080078"/>
+            <pb n="104" facs="unknown:018871_0103_0FA820DF4C080078"/>
             <head>POETRY.</head>
             <div type="inverted_order">
                <head>Inverted Order.</head>
@@ -7327,7 +7327,7 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
             <head>ARRANGEMENT.</head>
             <p>As the principal object to be conſidered in any compoſition whether proſe or verſe, is perſpicuity, and as this depends much on a proper arrangement of the members of a period; it is neceſſary to lay down ſome general rules with reſpect to this point and illuſtrate their propriety by examples of wrong arrangement.</p>
             <div type="examples">
-               <pb n="105" facs="tcp:018871_0104_0FA820E028A51EF0"/>
+               <pb n="105" facs="unknown:018871_0104_0FA820E028A51EF0"/>
                <head>1</head>
                <p>Words, expreſſing ideas that are connected in the mind, ought to be placed as near together as poſſible.</p>
                <p>The want of ſuch connection is obvious in the fol<g ref="char:EOLhyphen"/>lowing examples.</p>
@@ -7354,14 +7354,14 @@ to private happineſs. A man, who at preſent muſt degrade himſelf into a fop 
                <head>2</head>
                <p>A circumſtance ought not to be placed between two capital members of a period; for this renders it doubtful, to which of the two members, the circum<g ref="char:EOLhyphen"/>ſtance belongs. Witneſs the following example.</p>
                <q>
-                  <pb n="106" facs="tcp:018871_0105_0FA820E0CADFC870"/>
+                  <pb n="106" facs="unknown:018871_0105_0FA820E0CADFC870"/>
                   <floatingText xml:lang="unk">
                      <body>
                         <div type="error">
                            <p>Since this is too much to aſk of freemen, nay of ſlaves, <hi>if his expectation be not anſwered,</hi> ſhall he form a laſting diviſion upon ſuch tranſient mo<g ref="char:EOLhyphen"/>tives? Bolingbroke.</p>
                         </div>
                         <div type="correction">
-                           <pb n="106" facs="tcp:018871_0105_0FA820E0CADFC870"/>
+                           <pb n="106" facs="unknown:018871_0105_0FA820E0CADFC870"/>
                            <head>Corrected.</head>
                            <p>Since this is too much to aſk of freemen, nay of ſlaves, ſhall he, if his ex<g ref="char:EOLhyphen"/>pectations be not an<g ref="char:EOLhyphen"/>ſwered, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                                  <desc>•</desc>
@@ -7390,7 +7390,7 @@ Intelligencer No. 9.</p>
                   </floatingText>
                </q>
                <p>In this example, the circumſtance in Italics, is placed too late in the period, and renders the firſt
-<pb n="107" facs="tcp:018871_0106_0FA820E3A4F99B50"/>
+<pb n="107" facs="unknown:018871_0106_0FA820E3A4F99B50"/>
 diviſion of it, flat and unimportant; in the cor<g ref="char:EOLhyphen"/>rection, the circumſtance is placed in the beginning of the period, and its harmony and dignity are not afterwards interrupted.</p>
                <q>
                   <floatingText xml:lang="unk">
@@ -7407,7 +7407,7 @@ diviſion of it, flat and unimportant; in the cor<g ref="char:EOLhyphen"/>rectio
                   </floatingText>
                </q>
                <p>In both theſe examples, the circumſtances that cloſe the periods, are the leſt important, and render the concluſion flat and languid. In the firſt exam<g ref="char:EOLhyphen"/>ple corrected, the cloſing word <hi>creation</hi> being the moſt important, gives the whole period an air of dignity and leaves a deep impreſſion upon the mind. In the other example, the period is mended, but the meaning is ſtill left obſcure; for we are at a loſs to know whether Darius or Alexander is ſaid be near<g ref="char:EOLhyphen"/>ly aſleep. The ambiguity is removed by the following arrangement. "For the armies of Alexander con<g ref="char:EOLhyphen"/>tained but thirty thouſand men and in one battle, as the ſtories report, when he was ſo heavy with ſleep that his eyes were ſcarce open, he overcame Darius, who had ten hundred thouſand." Though
-<pb n="108" facs="tcp:018871_0107_0FA820E51EF965C8"/>
+<pb n="108" facs="unknown:018871_0107_0FA820E51EF965C8"/>
 it muſt be confeſſed that the words are hardly ca<g ref="char:EOLhyphen"/>pable of an elegant or perſpicuous arrangement.</p>
                <q>
                   <floatingText xml:lang="unk">
@@ -7457,7 +7457,7 @@ it muſt be confeſſed that the words are hardly ca<g ref="char:EOLhyphen"/>pab
                   </q>
                </p>
                <p>Perhaps the beſt arrangement would be, "With wonder they beheld &amp;c." "In England we meet with the three Seymours, ſiſters, nieces to a king and daughters to a protector, all celebrated for their
-<pb n="109" facs="tcp:018871_0108_0FA820E54E61F9F0"/>
+<pb n="109" facs="unknown:018871_0108_0FA820E54E61F9F0"/>
 learning, and for their elegant Latin verſes, which were tranſlated and repeated all over Europe;—Jane Gray, whoſe elevation to the throne was only a ſtep to the ſcaffold, and who read <hi>before her death, in Greek,</hi> Plato's Dialogue on the immortality of the ſoul." Ibid.</p>
                <p>One would imagine by the ſituation of the two circumſtances, <hi>before her death</hi> and <hi>in Greek,</hi> that her death was in Greek: It ought to be, who, be<g ref="char:EOLhyphen"/>fore her death, read in Greek, &amp;c. The ellipſis al<g ref="char:EOLhyphen"/>ſo in the beginning of the period, rather ſerves to obſcure the ſenſe. "The three Seymours <hi>who were</hi> ſiſters, &amp;c." would be more perſpicuous. Perhaps the greateſt fault in Mr. Ruſſel's ſtyle, is, a too frequent uſe of the ellipſis.</p>
             </div>
@@ -7481,14 +7481,14 @@ learning, and for their elegant Latin verſes, which were tranſlated and repeat
                      </gap>
                   </hi> refers to <hi>ground</hi>; whereas its antecedent is <hi>paper</hi>: And the nearer theſe ſtand to each other, the more eaſily does the mind comprehend the meaning of the au<g ref="char:EOLhyphen"/>thor.</p>
                <q>
-                  <pb n="110" facs="tcp:018871_0109_0FA820E65418CE50"/>
+                  <pb n="110" facs="unknown:018871_0109_0FA820E65418CE50"/>
                   <floatingText xml:lang="unk">
                      <body>
                         <div type="example">
                            <p>"Tom is a lively im<g ref="char:EOLhyphen"/>pudent clown, and has <hi>wit</hi> enough to have made him a pleaſant compan<g ref="char:EOLhyphen"/>ion, had <hi>it</hi> been poliſhed and rectified by good manners." Guardian, No. 160.</p>
                         </div>
                         <div type="correction">
-                           <pb n="110" facs="tcp:018871_0109_0FA820E65418CE50"/>
+                           <pb n="110" facs="unknown:018871_0109_0FA820E65418CE50"/>
                            <p>"Tom is a lively im<g ref="char:EOLhyphen"/>pudent clown and has <hi>wit</hi> enough, had <hi>it</hi> been poliſhed and rectified by good manners, to have made him a pleaſant companion."</p>
                         </div>
                      </body>
@@ -7517,7 +7517,7 @@ learning, and for their elegant Latin verſes, which were tranſlated and repeat
                </p>
                <p>In this example, the firſt word <hi>ſhe</hi> is intimately connected with the laſt member of the period, <hi>muſt be</hi> &amp;c. and it is a taſk too painful for the mind to retain the firſt word till it arrives to the cloſe, and at the ſame time comprehend the meaning of the in<g ref="char:EOLhyphen"/>tervening circumſtances.</p>
                <p>
-                  <pb n="111" facs="tcp:018871_0110_0FA820E6DF32FFE0"/>The arrangement in the correction renders the period ſmooth and perſpicuous.</p>
+                  <pb n="111" facs="unknown:018871_0110_0FA820E6DF32FFE0"/>The arrangement in the correction renders the period ſmooth and perſpicuous.</p>
                <p>An elegant writer of the preſent day is guilty of the ſame fault, in the following example.</p>
                <p>"The burning ardours and the tormenting jea<g ref="char:EOLhyphen"/>louſies of the Seraglio and the Haram, which have reigned ſo long in Aſia and Africa, and which in the ſouthern parts of Europe have ſcarcely given way to the differences of religion and civil eſtabliſhments, are found, however, with an abatement of heat in the climate, to be more eaſily changed, in one lati<g ref="char:EOLhyphen"/>tude, into a temporary paſſion which engroſſes the mind, without enfeebling it and which excites to romantic atchievements, &amp;c."</p>
                <p>Forguſon's eſſay on the hiſtory of civil ſociety, part 3, ſect. 1. Here the capital members of the period, viz. <hi>the burning ardours and the tormenting jealouſies of the Seraglio and Haram are found to be more eaſily changed into a temporary paſſion</hi> &amp;c. are ſeparated at ſuch a great diſtance and diſjoined by ſuch a number of intervening circumſtances, as to perplex the reade and fatigue his mind by cloſely attending to the connection of ideas.</p>
@@ -7530,7 +7530,7 @@ learning, and for their elegant Latin verſes, which were tranſlated and repeat
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>erve
-<pb n="112" facs="tcp:018871_0111_0FA820E78EAD1C50"/>
+<pb n="112" facs="unknown:018871_0111_0FA820E78EAD1C50"/>
 that, to expreſs the ſame idea, we have at leſt two words, the one of Saxon, and the other of Roman original. That this is the caſe with reſpect to the common ideas of mankind, will appear from the following compariſon.</p>
             <list>
                <label>Saxon.</label>
@@ -7596,16 +7596,16 @@ that, to expreſs the ſame idea, we have at leſt two words, the one of Saxon, 
             </list>
             <p>The words, <hi>veracitas, converſatio</hi> &amp;c. in the La<g ref="char:EOLhyphen"/>tin language, conveyed the ſame ideas as <hi>truth, talk</hi> &amp;c. in the Saxon and in the modern Engliſh. Where the Latin has not furniſhed us with a conve<g ref="char:EOLhyphen"/>nient word, we have borrowed from the Greek and French, and ſometimes from the modern German. This in one reſpect is a real advantage to the lan<g ref="char:EOLhyphen"/>guage; as it affords a variety of words to expreſs our ideas, and prevents the neceſſity of repeating the ſame words, as was the caſe with ſome of the anci<g ref="char:EOLhyphen"/>ent oriental languages. At the ſame time, it leads ignorant and half-learned people into the frequent and diſagreeable uſe of ſynonymous terms. Thus we often hear it ſaid that "he is a man of <hi>truth</hi> and <hi>veracity,</hi>" which is ſaying no more than that he is a man of <hi>truth</hi> and <hi>truth.</hi> In the ſolemn act of prayer, we often hear the Deity intreated to <hi>keep</hi> and <hi>preſerve</hi> us; which, by any explication, will amount to no more than an interceſſion to <hi>keep</hi> and <hi>keep</hi> us.</p>
             <p>The Hebrew language, at the time the ſcripures
-<pb n="113" facs="tcp:018871_0112_0FA820E84BA47800"/>
+<pb n="113" facs="unknown:018871_0112_0FA820E84BA47800"/>
 were written, conſiſted of few words<note n="*" place="bottom">It is ſaid to conſiſt of about two thouſand words. The Eng<g ref="char:EOLhyphen"/>lish contains twenty thouſand; beſides the ſingular advantage of compoſition, which by prefixing to words certain particles and annexing terminations of determinate and known ſignifica<g ref="char:EOLhyphen"/>tions, renders the language capable of an endleſs variety.</note>, and in or<g ref="char:EOLhyphen"/>der to expreſs ideas with uncommon energy, the writers were obliged to uſe repetitions. But the, copiouſneſs of our language ſuperſedes the neceſſi<g ref="char:EOLhyphen"/>ty and conſequently the propriety of uſing two or three ſynonymous terms to expreſs any idea, how<g ref="char:EOLhyphen"/>ever forcible: And in expreſſing the common un<g ref="char:EOLhyphen"/>important ideas of mankind, every word that does not add ſomethig to the meaning of a phraſe, muſt be conſidered as ſuperfluous and detracting from the beauty of ſtyle. To ſet this impropriety in a ſtriking point of light, I will inſert a paſſage from the Spectator, No. 302, and add a great number of ſynonymous terms to the original.</p>
             <p>"Who ever beheld <hi>and ſaw</hi> the charming Emi<g ref="char:EOLhyphen"/>lia without feeling in his breaſt at once the glow <hi>and ardour</hi> of love, and the tenderneſs of virtuous friend<g ref="char:EOLhyphen"/>ſhip. The unſtudied <hi>and natural</hi> graces of her be<g ref="char:EOLhyphen"/>haviour and the pleaſing <hi>and agreeable</hi> accents of her tongue, inſenſibly <hi>and imperceptibly</hi> draw you on to wiſh for a nearer enjoyment of them; but even her ſmiles carry in them a ſilent reproof to the impulſes of licentious <hi>and lawleſs</hi> love. Thus, though the attractives of her beauty play almoſt irreſiſtibly up<g ref="char:EOLhyphen"/>on you and create <hi>and give birth to</hi> deſire, you im<g ref="char:EOLhyphen"/>mediately ſtand corrected, not by the ſeverity <hi>and rigour,</hi> but by the decency of her virtue. That ſweetneſs and good humour, which is ſo viſible <hi>and apparent</hi> in her face <hi>and countenance,</hi> naturally dif<g ref="char:EOLhyphen"/>fuſes <hi>and ſpreads</hi> itſelf into every word and action. A man muſt be a ſavage who, at the ſight <hi>and view</hi> of Emilia, is not more inclined <hi>and diſpoſed</hi> to do her good than to gratify himſelf. Her perſon, as it is
-<pb n="114" facs="tcp:018871_0113_0FA820E91B1F15B0"/>
+<pb n="114" facs="unknown:018871_0113_0FA820E91B1F15B0"/>
 thus ſtudiouſly embelliſhed <hi>and ornamented</hi> by na<g ref="char:EOLhyphen"/>ture, thus adorned with unpremeditated <hi>and unſtudi<g ref="char:EOLhyphen"/>ed</hi> graces, is a fit <hi>and proper</hi> lodging <hi>and habitation</hi> for a mind ſo fair and lovely, <hi>handſome and amiable;</hi> there dwell <hi>and reſide</hi> rational piety, modeſt hope, and cheerful reſignation. Were I to relate that part of Emilia's life which has given <hi>and granted</hi> her an opportunity <hi>and occaſion</hi> of exerting the he<g ref="char:EOLhyphen"/>roiſm <hi>and fortitude</hi> of chriſtianity, it would make <hi>and form</hi> too ſad <hi>and ſorrowful,</hi> too tender <hi>and af<g ref="char:EOLhyphen"/>fecting</hi> a ſtory: But when I conſider her done in the midſt of her diſtreſſes <hi>and ſufferings,</hi> looking be<g ref="char:EOLhyphen"/>yond this gloomy <hi>and dark</hi> vale of affliction and ſor<g ref="char:EOLhyphen"/>row into the joys of Heaven and immortality, and when I ſee <hi>and view</hi> her in converſation <hi>and diſcourſe</hi> thoughtleſs and eaſy, as if ſhe were the moſt happy creature in the world, I am tranſported <hi>and carried away</hi> with admiration <hi>and wonder,</hi>"</p>
             <p>In this beautiful deſcription of female excellence, the words in Italics are ſuperfluous: Let them be omitted and we have the paſſage in the original ſtyle, which is pure and elegant.</p>
             <p>But it muſt be remarked that cuſtom has affixed very different meanings to the ſame words and ve<g ref="char:EOLhyphen"/>ry often different from the original ſenſe. Thus <hi>freedom</hi> is much more general in its ſignification, than <hi>exemption.</hi> To ſay a man is <hi>free</hi> from trouble and <hi>exempt</hi> from trouble, is ſaying the ſame thing: But the phraſe <hi>political exemption</hi> is not admiſſible; though <hi>political freedom</hi> is as common and proper as any phraſe in the language. When therefore I ſay that two words of the ſame import ought not to be uſed at the ſame time, I would be underſtood to mean, that they ought not to be uſed to convey ex<g ref="char:EOLhyphen"/>actly the ſame idea.</p>
             <p>For examples of the needleſs uſe of ſynonymous terms, ſee Spectator No. 352.</p>
             <p>In diſcourſe and familiar writings, I would gene<g ref="char:EOLhyphen"/>rally
-<pb n="115" facs="tcp:018871_0114_0FA820EA1190EAF0"/>
+<pb n="115" facs="unknown:018871_0114_0FA820EA1190EAF0"/>
 prefer the Saxon to the Roman words. Ma<g ref="char:EOLhyphen"/>ny of the Saxon words and phraſes have a particular force or beauty that is loſt in Roman words of cor<g ref="char:EOLhyphen"/>reſpondent import. But many Saxon words which were uſed in the time of Spencer and Chaucer are now become obſolete; others are grown vulgar; and the prevailing taſte of the Engliſh ſeems to be, to neglect their native tongue in complaiſance <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o the ancient Roman and modern French and Italian.</p>
@@ -7778,7 +7778,7 @@ prefer the Saxon to the Roman words. Ma<g ref="char:EOLhyphen"/>ny of the Saxon 
                   </table>
                </p>
                <p>
-                  <pb n="116" facs="tcp:018871_0115_0FA820EB434E67B0"/>From an adjective we form a noun by the termi<g ref="char:EOLhyphen"/>nation,
+                  <pb n="116" facs="unknown:018871_0115_0FA820EB434E67B0"/>From an adjective we form a noun by the termi<g ref="char:EOLhyphen"/>nation,
 <table>
                      <row>
                         <cell role="label"> </cell>
@@ -7907,7 +7907,7 @@ prefer the Saxon to the Roman words. Ma<g ref="char:EOLhyphen"/>ny of the Saxon 
                   </table>
                </p>
                <p>
-                  <pb n="117" facs="tcp:018871_0116_0FA820EB6D6E2080"/>From nouns we form other nouns by the termi<g ref="char:EOLhyphen"/>nation,
+                  <pb n="117" facs="unknown:018871_0116_0FA820EB6D6E2080"/>From nouns we form other nouns by the termi<g ref="char:EOLhyphen"/>nation,
 <table>
                      <row>
                         <cell role="label"> </cell>
@@ -8066,7 +8066,7 @@ prefer the Saxon to the Roman words. Ma<g ref="char:EOLhyphen"/>ny of the Saxon 
                   <hi>Pre</hi> ſignifying priority or eminence, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="118" facs="tcp:018871_0117_0FA820EC0CD66080"/>
+                  <pb n="118" facs="unknown:018871_0117_0FA820EC0CD66080"/>
 prefixed to <hi>verbs, nouns</hi> and <hi>adjectives,</hi> as ſuppoſe, <hi>pre-ſuppoſe,</hi> exiſtence, <hi>pre-exiſtence,</hi> eminent, <hi>pre-eminent.</hi>
                </p>
                <p>
@@ -8107,7 +8107,7 @@ prefixed to <hi>verbs, nouns</hi> and <hi>adjectives,</hi> as ſuppoſe, <hi>pre
                   <hi>Diſ,</hi> implying contrariety, is prefixed to <hi>nouns, verbs</hi> and <hi>participles,</hi> as repute, <hi>diſrepute,</hi> claim <hi>diſ<g ref="char:EOLhyphen"/>claim,</hi> poſſeſſed, <hi>diſpoſſeſſed.</hi>
                </p>
                <p>We have one ſpecies of compoſition, which is ve<g ref="char:EOLhyphen"/>ry common, eſpecially among poets, which muſt not be omitted: This is when two whole words are united to expreſs ſome complex idea with conciſe<g ref="char:EOLhyphen"/>neſs and energy. Of this kind are the following: <hi>"Cloud-compelling</hi> Jove," "<hi>cloud-topt</hi> hill," Pope. <hi>"Root-obſtructed</hi> channel," Hervey. "<hi>Heart-felt</hi>
-                  <pb n="119" facs="tcp:018871_0118_0FA820ECE33EA0F8"/>
+                  <pb n="119" facs="unknown:018871_0118_0FA820ECE33EA0F8"/>
 pangs," "<hi>Sun-deſcended</hi> race." Theſe are adjectives in ſenſe, but formed of a noun and a participle and convey the whole meaning of a phraſe in a ſingle word.</p>
                <p>Many of theſe compound adjectives, in the ſub<g ref="char:EOLhyphen"/>lime ſtyle, acquire a beauty and force that would be entirely loſt in a circumlocution. But care ſhould be taken not to indulge this licence of compoſition to ſuch a degree, as to unite words that appear harſh and unnatural. Such are the "<hi>devotion-confounding peſts</hi>" <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -8120,7 +8120,7 @@ pangs," "<hi>Sun-deſcended</hi> race." Theſe are adjectives in ſenſe, but fo
             <p>Accent has been generally uſed to ſignify the pe<g ref="char:EOLhyphen"/>culiar ſtreſs of the voice on a particular ſyllable, in words of more ſyllables than one: Emphaſis, to de<g ref="char:EOLhyphen"/>note the peculiar ſtreſs of the voice, on a particular word in a ſentence. According to theſe definitions, no monoſyllable can have any accent; and emphaſis is limited to one kind.</p>
             <p>Mr. Sheridan, who has taken more pains to regu<g ref="char:EOLhyphen"/>late the pronunciation of the Engliſh language, than any other writer, defines accent to be the ſtreſs of voice on a particular letter of a ſyllable, which diſ<g ref="char:EOLhyphen"/>tinguiſhes it from the reſt; and confines emphaſis to thoſe particular words in a ſentence, which de<g ref="char:EOLhyphen"/>mand, not only a greater ſtreſs, but a change of tone in the voice.</p>
             <p>This definition of accent appears to be more ac<g ref="char:EOLhyphen"/>curate and uſeful, than the former, eſpecially as it enables us to make, in all words, the neceſſary diſ<g ref="char:EOLhyphen"/>tinction
-<pb n="120" facs="tcp:018871_0119_0FA820ED8A2B9F58"/>
+<pb n="120" facs="unknown:018871_0119_0FA820ED8A2B9F58"/>
 between accented vowels and accented con<g ref="char:EOLhyphen"/>ſonants.</p>
             <p>But this is not perfectly accurate; for by this rule, no word conſiſting of more letters than one, can be unaccented; and he calls the particles <hi>of, at, in, to,</hi> &amp;c. unaccented by miſtake; while the pro<g ref="char:EOLhyphen"/>noun <hi>I,</hi> which often requires great ſtreſs of voice, without change of note, can have no accent, becauſe it has but one letter.</p>
             <p>Perhaps the following definitions may <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -8132,7 +8132,7 @@ between accented vowels and accented con<g ref="char:EOLhyphen"/>ſonants.</p>
                   <desc>•</desc>
                </gap> participles and adverbs, in a leſs degree—pronouns though they ſupply the place of nouns, are generally deprived of emphaſis in pronunciation. Conjunc<g ref="char:EOLhyphen"/>tions, interjections, prepoſitions, auxiliaries and ar<g ref="char:EOLhyphen"/>ticles, are in their nature unemphatical. This kind of emphaſis requires no change of tone, but only that natural force of voice with which we pronounce important words.</p>
             <p>
-               <pb n="121" facs="tcp:018871_0120_0FA820F0B316E738"/>The other kind of emphaſis, which is the moſt forcible, depends merely on the importance of the word on which it falls, in the particular ſentence where it is uſed. It often determines the ſenſe of the phraſe, and uſually requires a change of tone as well as ſtreſs of voice on the accented letter. This emphaſis, which may be called <hi>accidental,</hi> being regulated entirely by the ſenſe, may fall on any word in the language and cauſe particles to be pronounced with the higheſt ſtreſs of voice.</p>
+               <pb n="121" facs="unknown:018871_0120_0FA820F0B316E738"/>The other kind of emphaſis, which is the moſt forcible, depends merely on the importance of the word on which it falls, in the particular ſentence where it is uſed. It often determines the ſenſe of the phraſe, and uſually requires a change of tone as well as ſtreſs of voice on the accented letter. This emphaſis, which may be called <hi>accidental,</hi> being regulated entirely by the ſenſe, may fall on any word in the language and cauſe particles to be pronounced with the higheſt ſtreſs of voice.</p>
             <p>Scarcely any ſubject has been leſs attended to than Engliſh Proſody. Grammarians have gone no farther than to divide the kinds of verſe into the iambic, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> and anapaeſtic, and to diſtinguiſh them <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -8140,14 +8140,14 @@ between accented vowels and accented con<g ref="char:EOLhyphen"/>ſonants.</p>
                </gap> number of ſyllables in each line. The rule laid down generally for the heroic meaſure, is, that it conſiſts of five feet and that to make a perfectly regular verſe, theſe ought to be all iambic, with this exception only that the firſt foot may ſome<g ref="char:EOLhyphen"/>times be a trochee. All variations from the iambic in the ſubſequent feet, are conſidered as defects in the ſtructure of the verſe.</p>
             <p>Theſe rules have taught all common readers of poetry to affect the placing of the accent or empha<g ref="char:EOLhyphen"/>ſis on every ſecond ſyllable, which makes our verſi<g ref="char:EOLhyphen"/>fication thus pronounced, the moſt monotonous and ridiculous of all poetry in the world. But the truth is, our heroic iambic verſe admits of a greater varie<g ref="char:EOLhyphen"/>ty of feet, than the heroic meaſure of any language with which I am acquainted. The Latin and Greek, as it is well known, admit but two, the dactyl and ſpondee, except only that the laſt foot may be a trochee; which however in that place can hardly be perceived by the ear.</p>
             <p>In order to explain the nature of Engliſh verſe, it is neceſſary to give ſome rules concerning long and ſhort ſyllables in our language, which has not yet been attempted on its true principles—the Latin
-<pb n="122" facs="tcp:018871_0121_0FA820F1E7B89828"/>
+<pb n="122" facs="unknown:018871_0121_0FA820F1E7B89828"/>
 proſody having nothing to do with the Engliſh lan<g ref="char:EOLhyphen"/>guage.</p>
             <p n="1">1ſt. Every accented ſyllable is long. This has never been doubted, where the accent falls on a vowel; as, <hi>glo-ry, ho-ly.</hi> Where the accent falls on a conſonant, as in <hi>hab-it, bat-tle,</hi> the preceding vowel is undoubtedly ſhort; but the ſyllable is neverthe<g ref="char:EOLhyphen"/>leſs long. Thus in the ſyllable <hi>prac,</hi> the vowel is as ſhort as poſſible, the ſyllable being cloſed by a pure mute conſonant; but when we join to it another ſyllable, if it begin with a conſonant; as, <hi>prac-tice,</hi> the time required to place the organs of ſpeech in a poſition to pronounce the conſonants, renders the ſyllable as long as if the accent lay on the vowel. And if the following ſyllable begin with a vowel, we cannot avoid joining to it the laſt conſonant, which is the ſame as doubling the conſonant; for the words <hi>hab-it</hi> and <hi>hab-bit</hi> are pronounced preciſe<g ref="char:EOLhyphen"/>ly alike and in the ſame ſpace of time. And I ap<g ref="char:EOLhyphen"/>peal to the moſt accurate ear, whether there be any difference in the ordinary pronunciation of theſe words <hi>glo-ry, ho-ly, hab-it, prac-tice.</hi>
             </p>
             <p>This difference however muſt be obſerved, that all accented ſyllables are not equally long, for all are not equally accented. In many polyſyllables, be<g ref="char:EOLhyphen"/>ſides the principal accent, there is a weaker accent on another ſyllable, which may with propriety be called the half accent. Thus in the word <hi>ex-poſ-tu-la-to-ry,</hi> the full accent is on the ſecond ſyllable and the half accent on the fifth; this ſyllable is longer and more diſtinctly articulated than the unaccented ſyllables, though it is not ſo long as the ſecond, on which lies the principal accent.</p>
             <p>The half accent, eſpecially when it follows the full accent, renders ſuch words ungraceful in poetry, except in one ſingle place in the verſe; for the half accent may fall gracefully upon the laſt ſyllable but two, as in theſe lines of an anonymous writer:
 <q>
-                  <pb n="123" facs="tcp:018871_0122_0FA820F217A9B188"/>
+                  <pb n="123" facs="unknown:018871_0122_0FA820F217A9B188"/>
                   <l>"A new diſgrace inevitably ſheds."</l>
                   <l>"Gives the keen curſe accumulated gall."</l>
                </q>
@@ -8169,7 +8169,7 @@ The monoſyllables <hi>wrong, right, may, muſt,</hi> the two former of which be
                   </q>
                   <hi>May</hi> is long, but arbitrarily shortened; <hi>may go,</hi> not forming a ſpondee.</note>
 Whether the accented ſyllables and emphati<g ref="char:EOLhyphen"/>cal monoſyllables are all really long, in the ſame
-<pb n="124" facs="tcp:018871_0123_0FA820F318B1E640"/>
+<pb n="124" facs="unknown:018871_0123_0FA820F318B1E640"/>
 ſenſe as ſyllables are denominated long in the Greek and Roman languages, is a diſpute of little conſe<g ref="char:EOLhyphen"/>quence. All accented ſyllables and all monoſylla<g ref="char:EOLhyphen"/>bles either naturally or accidentally emphatical, are important—on theſe depend the dignity and harmo<g ref="char:EOLhyphen"/>ny of verſe—and by theſe, the proſody of our lan<g ref="char:EOLhyphen"/>guage, with all its variety, may be reduced to rules as ſimple and at the ſame time as accurate, as thoſe of any other language<note n="†" place="bottom">According to the rules of English proſodians, the mono<g ref="char:EOLhyphen"/>ſyllables, <hi>ſtrength, health, thruſt, thick,</hi> are short ſyllables; for the vowels are as short as poſſible. But the fact is, they are ſome of the longeſt ſyllables in the language; and the word <hi>language,</hi> in which there is no long vowel, requires as much time to be pro<g ref="char:EOLhyphen"/>nounced diſtinctly, as many words of three ſyllables. In learn<g ref="char:EOLhyphen"/>ing our language, it is of the higheſt importance to know the long vowels from the short; but in inveſtigating the rules of verſe, we are to attend leſs to the length of the vowels than to that of the ſyllables, which depends much upon the combination of conſonants and the force of utterance.</note>
             </p>
             <p>In illuſtrating the rules of metrical compoſition, for want of proper types, I ſhall uſe figures to repre<g ref="char:EOLhyphen"/>ſent the length of the ſyllables—the long <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -8190,7 +8190,7 @@ Whether the accented ſyllables and emphati<g ref="char:EOLhyphen"/>cal monoſyl
                <item>of<hi rend="sup">2</hi> a.<hi rend="sup">2</hi>
                </item>
                <label>
-                  <pb n="125" facs="tcp:018871_0124_0FA820F392E2B398"/>The dactyl, three ſyllables, the firſt long and the two laſt ſhort; as,</label>
+                  <pb n="125" facs="unknown:018871_0124_0FA820F392E2B398"/>The dactyl, three ſyllables, the firſt long and the two laſt ſhort; as,</label>
                <item>fu<hi rend="sup">1</hi>-ri<hi rend="sup">2</hi>-ous.<hi rend="sup">2</hi>
                </item>
                <label>The anapaeſt, three ſyllables, the two firſt ſhort and the laſt long; as,</label>
@@ -8240,7 +8240,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>
-               <pb n="126" facs="tcp:018871_0125_0FA820F4674D5338"/>In the third and fourth feet, it is harſh, but may have a beauty when it ſuits the ſound to the ſenſe; as,
+               <pb n="126" facs="unknown:018871_0125_0FA820F4674D5338"/>In the third and fourth feet, it is harſh, but may have a beauty when it ſuits the ſound to the ſenſe; as,
 <q>
                   <p>"Eve<hi rend="sup">1</hi> right<hi rend="sup">1</hi>—ly<hi rend="sup">2</hi> call'd<hi rend="sup">1</hi>—<hi>mother<hi rend="sup">1</hi> 
                         <hi rend="sup">2</hi>
@@ -8297,7 +8297,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>On this foot it may be obſerved, that in our lan<g ref="char:EOLhyphen"/>guage the two ſyllables can never be equally long, becauſe the accent or emphaſis on one will always be ſtronger than the other; as in <hi>earth-quake,</hi> the
-<pb n="127" facs="tcp:018871_0126_0FA820F51A6E53B0"/>
+<pb n="127" facs="unknown:018871_0126_0FA820F51A6E53B0"/>
 ſtrongeſt accent is on the firſt ſyllable: So a mono<g ref="char:EOLhyphen"/>ſyllable adjective has leſs emphaſis than a noun. A noun and a verb are nearly equal in emphaſis natu<g ref="char:EOLhyphen"/>rally, yet the ſenſe will ever determine one to be more emphatical than the other, Theſe ought to be so managed that the moſt ſtrongly accented ſylla<g ref="char:EOLhyphen"/>ble or the moſt emphatical ſhould be the laſt of the foot; unleſs it ſtand in the firſt place, where the contrary is equally graceful; as,
 <q>
                   <p>"<hi>Death,1</hi> great<hi rend="sup">1</hi>—propri<hi rend="sup">2</hi> 
@@ -8340,7 +8340,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>
-               <pb n="128" facs="tcp:018871_0127_0FA820F5F064D6F8"/>The dactyl is admiſſible when it conſiſts of word capable of an eliſion; as, <hi>different,</hi> &amp;c. in which the ſecond ſyllable is too weak to make a full ſyllable in the verſe. Theſe have been uſually printed with an apoſtrophe, thus, diff'rent; but are not pronounced ſo; for we give every ſyllable its full ſound, which makes it a proper dactyl.</p>
+               <pb n="128" facs="unknown:018871_0127_0FA820F5F064D6F8"/>The dactyl is admiſſible when it conſiſts of word capable of an eliſion; as, <hi>different,</hi> &amp;c. in which the ſecond ſyllable is too weak to make a full ſyllable in the verſe. Theſe have been uſually printed with an apoſtrophe, thus, diff'rent; but are not pronounced ſo; for we give every ſyllable its full ſound, which makes it a proper dactyl.</p>
             <p>It is alſo neceſſarily admitted in many words, when two vowels meet, each of which forms a ſyllable, though unaccented, and which are incapable of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>liſion; as, <hi>glorious, furious, infuriate.</hi>
@@ -8389,7 +8389,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
             </p>
             <p>The tribrachus is compoſed of like words as the dactyl and anapaeſt. It may be uſed in the third and fourth places.</p>
             <p>
-               <pb n="129" facs="tcp:018871_0128_0FA820F6DDB23028"/>In the third; as,
+               <pb n="129" facs="unknown:018871_0128_0FA820F6DDB23028"/>In the third; as,
 <q>"And<hi rend="sup">2</hi> rolls<hi rend="sup">1</hi>—impet<hi rend="sup">2</hi> 
                   <hi rend="sup">1</hi>—<hi>uous<hi rend="sup">2</hi> 
                      <hi rend="sup">2</hi> to2</hi>—the<hi rend="sup">2</hi> ſub<hi rend="sup">1</hi>—ject<hi rend="sup">2</hi> plain."<hi rend="sup">1</hi>
@@ -8447,7 +8447,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>
-               <pb n="130" facs="tcp:018871_0129_0FA820F80EC30998"/>Hence lines, abounding with monoſyllables that are emphatical, are the moſt forcible and ſolemn; but are often two much encumbered.</p>
+               <pb n="130" facs="unknown:018871_0129_0FA820F80EC30998"/>Hence lines, abounding with monoſyllables that are emphatical, are the moſt forcible and ſolemn; but are often two much encumbered.</p>
             <p>To end a line with a triſſyllable, the laſt ſyllable of which has the half accent or none at all, though ſometimes practiſed by our beſt Poets, is ſubverſive of all harmony and contrary to the genius of our poetry.</p>
             <q>
                <l>"Th' eternal art, educing good from ill,</l>
@@ -8482,7 +8482,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>
-               <pb n="131" facs="tcp:018871_0130_0FA820F8D66611E0"/>In the anapaeſtic meaſure, every third ſyllable is accented, and the multitude of ſhort ſyllables gives the verſe an air of li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="131" facs="unknown:018871_0130_0FA820F8D66611E0"/>In the anapaeſtic meaſure, every third ſyllable is accented, and the multitude of ſhort ſyllables gives the verſe an air of li<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>elineſs, well ſuited to cheerful ſubjects; as,
 <q>
@@ -8535,7 +8535,7 @@ Here the firſt foot is a trochee and the reſt are iam<g ref="char:EOLhyphen"/>
                </q>
             </p>
             <p>
-               <pb n="132" facs="tcp:018871_0131_0FA820F998105AC8"/>The final pauſe muſt be obſerved at the end of every line, whether there be a ſtop in the ſenſe or not. Thus in reading theſe lines
+               <pb n="132" facs="unknown:018871_0131_0FA820F998105AC8"/>The final pauſe muſt be obſerved at the end of every line, whether there be a ſtop in the ſenſe or not. Thus in reading theſe lines
 <q>
                   <l>"And who but wiſhes to invert the laws</l>
                   <l>Of order, ſins againſt th' eternal cauſe."</l>
@@ -8555,7 +8555,7 @@ The voice muſt be ſuſpended at the cloſe of the firſt line, but not elevate
             <p>Punctuation is the art of marking in writing the ſeveral pauſes or reſts between ſentences and the parts of ſentences.</p>
             <p>As the ſeveral articulate ſounds, the ſyllables and words, of which ſentences conſiſt, are marked by letters; ſo the pauſes, between ſentences and their parts, are marked by points.</p>
             <p>The different degrees of connection between the
-<pb n="133" facs="tcp:018871_0132_0FA820FA4EB18538"/>
+<pb n="133" facs="unknown:018871_0132_0FA820FA4EB18538"/>
 parts of ſentences, require a great variety of pauſes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> different lengths; yet, to expreſs this variety, we uſe only four points. For this reaſon the doctrine of punctuation muſt neceſſarily be imperfect and not reducible to preciſe rules.</p>
@@ -8570,7 +8570,7 @@ parts of ſentences, require a great variety of pauſes o<gap reason="illegible"
             <p>A ſimple ſentence has but one ſubject, and one fi<g ref="char:EOLhyphen"/>nite verb.</p>
             <p>A compounded ſentence has more than one ſub<g ref="char:EOLhyphen"/>ject, or one finite verb, either expreſſed or under<g ref="char:EOLhyphen"/>ſtood; or it conſiſts of two or more ſimple ſentences connected together.</p>
             <p>In a ſentence, the ſubject and the verb may be each
-<pb n="134" facs="tcp:018871_0133_0FA820FB0F726050"/>
+<pb n="134" facs="unknown:018871_0133_0FA820FB0F726050"/>
 of them accompanied with ſeveral adjuncts; as the object, the end, the circumſtance of time, place, and manner, and the like : and this, either immediately, or mediately; that is, by being connected with ſomething which is connected with ſome other; and ſo on.</p>
             <p>If the ſeveral adjuncts affect the ſubject or the verb in a different manner, they are only ſo many imperfect phraſes; and the ſentence is ſimple.</p>
             <p>A ſimple ſentence admits of no point by which it may be divided, or diſtinguiſhed into parts.</p>
@@ -8579,7 +8579,7 @@ of them accompanied with ſeveral adjuncts; as the object, the end, the circumſ
             <p>EXAMPLES.</p>
             <p>"The paſſion for praiſe produces excellent effects in women of ſenſe." Addiſon, Spect. No. 73. In this ſentence <hi>paſſion</hi> is the ſubject, and <hi>produces</hi> the verb: Each of which is accompanied and connected with its adjuncts. The ſubject is not paſſion in general, but a particular paſſion determined by its adjunct of ſpecification, as we may call it, the paſſion <hi>for praiſe.</hi> So likewiſe the verb is immediately connected with its object, <hi>excellent effects</hi>
                <g ref="char:punc">▪</g> and me<g ref="char:EOLhyphen"/>diately, that is, by the intervention of the word <hi>ef<g ref="char:EOLhyphen"/>fects,</hi> with <hi>women,</hi> the ſubject in which theſe effects are produced; which again is connected with its adjunct of ſpecification; for it is not meant of wo<g ref="char:EOLhyphen"/>men in general, but of women <hi>of ſenſe</hi> only. Laſt<g ref="char:EOLhyphen"/>ly, it is to be obſerved, that the verb is connected
-<pb n="135" facs="tcp:018871_0134_0FA820FBEB8C3568"/>
+<pb n="135" facs="unknown:018871_0134_0FA820FBEB8C3568"/>
 with each of theſe ſeveral adjuncts in a different manner; namely, with <hi>effects,</hi> as the object; with <hi>women,</hi> as the ſubject of them; with <hi>ſenſe,</hi> as the quality or characteriſtic of thoſe women. The ad<g ref="char:EOLhyphen"/>juncts therefore are only ſo many imperfect phraſes; the ſentence is a ſimple ſentence, and admits of no point, by which it may be diſtinguiſhed into parts.</p>
             <p>"The paſſion for praiſe, which is ſo very vehe<g ref="char:EOLhyphen"/>ment in the fair ſex, produces excellent effects in women of ſenſe." Here a new verb is introduced, accompanied with adjuncts of its own; and the ſub<g ref="char:EOLhyphen"/>ject is repeated by the relative pronoun <hi>which.</hi> It now becomes a compounded ſentence, made up of two ſimple ſentences, one of which is inſerted in the middle of the other; it muſt therefore be diſtin<g ref="char:EOLhyphen"/>guiſhed into its component parts by a point placed on each ſide of the additional ſentence.</p>
             <q>
@@ -8587,7 +8587,7 @@ with each of theſe ſeveral adjuncts in a different manner; namely, with <hi>ef
                <bibl>Ibid.</bibl>
             </q>
             <p>In the firſt of theſe two ſentences, the adjuncts <hi>chaſtity, fidelity, devotion,</hi> are connected with the verb by the word <hi>inſtances</hi> in the ſame manner, and in effect make ſo many diſtinct ſentences: "How many inſtances have we of chaſtity? How many in<g ref="char:EOLhyphen"/>ſtances have we of fidelity? How many inſtances have we of devotion?" They muſt therefore be ſepa<g ref="char:EOLhyphen"/>rated from one another by a point. The ſame may be ſaid of the adjuncts, "education of their chil<g ref="char:EOLhyphen"/>dren, &amp;c" in the former part of the next ſentence: as likewiſe of the ſeveral ſubjects, "the making of war, &amp;c." in the latter part, which have in effect
-<pb n="136" facs="tcp:018871_0135_0FA820FF052974F8"/>
+<pb n="136" facs="unknown:018871_0135_0FA820FF052974F8"/>
 each their verb; for each of theſe "is an atchieve<g ref="char:EOLhyphen"/>ment by which men grow famous."</p>
             <p>As ſentences themſelves are divided into ſimple and compounded, ſo the members of ſentences may be divided into ſimple and compounded members: for whoſe ſentences, whether compounded or un<g ref="char:EOLhyphen"/>compounded, may become members of other ſen<g ref="char:EOLhyphen"/>tences, by means of ſome additional connection.</p>
             <p>Simple members of ſentences cloſely connected together in one compounded member, or ſentence, are diſtinguiſhed or ſeparated by a comma: as in the foregoing examples.</p>
@@ -8605,7 +8605,7 @@ each their verb; for each of theſe "is an atchieve<g ref="char:EOLhyphen"/>ment
             <p>Two nouns, or two adjectives, connected by a ſingle copulative or disjunctive, are not ſeparated by a point; but when there are more than two, or where the conjunction is underſtood, they muſt be diſtinguiſhed by a comma.</p>
             <p>Simple members connected by relatives, and com<g ref="char:EOLhyphen"/>paratives, are for the moſt part diſtinguiſhed by a comma, but when the members are ſhort, in com<g ref="char:EOLhyphen"/>parative ſentences; and when two members are cloſely connected by a relative reſtraining the gene<g ref="char:EOLhyphen"/>ral notion of the antecedent to a particular ſenſe; the pauſe becomes almoſt inſenſible, and the comma is better omitted.</p>
             <p>
-               <pb n="137" facs="tcp:018871_0136_0FA82100301478C0"/>EXAMPLES.</p>
+               <pb n="137" facs="unknown:018871_0136_0FA82100301478C0"/>EXAMPLES.</p>
             <q>
                <p>"Raptures, tranſports, and extaſies, are the re<g ref="char:EOLhyphen"/>wards which they confer: ſighs and tears, prayers and broken hearts, are the offerings which are paid to them."</p>
                <bibl>Addiſon, Ibid.</bibl>
@@ -8627,7 +8627,7 @@ each their verb; for each of theſe "is an atchieve<g ref="char:EOLhyphen"/>ment
             </q>
             <p>Here the whole ſentence is divided into two parts by the ſemicolon; each of which parts is a com<g ref="char:EOLhyphen"/>pounded member, divided into its ſimple members by the comma.</p>
             <p>A member of a ſentence, whether ſimple or com<g ref="char:EOLhyphen"/>pounded, which of itſelf would make a complete ſen<g ref="char:EOLhyphen"/>tence, and ſo requires a greater pauſe than a ſemi<g ref="char:EOLhyphen"/>colon, yet is followed by an additional part, making
-<pb n="138" facs="tcp:018871_0137_0FA821005E590718"/>
+<pb n="138" facs="unknown:018871_0137_0FA821005E590718"/>
 a more full and perfect ſenſe, may be diſtinguiſhed by a colon.</p>
             <p>EXAMPLE.</p>
             <q>
@@ -8658,7 +8658,7 @@ a more full and perfect ſenſe, may be diſtinguiſhed by a colon.</p>
             </p>
             <p>The interrogation and exclamation points are ſuf<g ref="char:EOLhyphen"/>ficiently explained by their names: they are inde<g ref="char:EOLhyphen"/>terminate as to their quantity or time, and may be equivalent in that reſpect to a ſemicolon, a colon, or a period, as the ſenſe requires. They mark an ele<g ref="char:EOLhyphen"/>vation of the voice.</p>
             <p>
-               <pb n="139" facs="tcp:018871_0138_0FA821015E8DEE10"/>The par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="139" facs="unknown:018871_0138_0FA821015E8DEE10"/>The par<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
